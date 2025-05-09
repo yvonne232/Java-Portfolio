@@ -1,0 +1,84 @@
+Expression: -+ABC
+Prefix to postfix: AB+C-
+Postfix to prefix: -+ABC
+-- Expression Tree Traversal (Enhancement) 
+Postfix (from tree traversal): AB+C-
+Prefix (from tree traversal): -+ABC
+
+-----------------------
+Expression: -A+BC
+Prefix to postfix: ABC+-
+Postfix to prefix: -A+BC
+-- Expression Tree Traversal (Enhancement) 
+Postfix (from tree traversal): ABC+-
+Prefix (from tree traversal): -A+BC
+
+-----------------------
+Expression: $+-ABC+D-EF
+Prefix to postfix: AB-C+DEF-+$
+Postfix to prefix: $+-ABC+D-EF
+-- Expression Tree Traversal (Enhancement) 
+Postfix (from tree traversal): AB-C+DEF-+$
+Prefix (from tree traversal): $+-ABC+D-EF
+
+-----------------------
+Expression: -*A$B+C-DE*EF
+Prefix to postfix: ABCDE-+$*EF*-
+Postfix to prefix: -*A$B+C-DE*EF
+-- Expression Tree Traversal (Enhancement) 
+Postfix (from tree traversal): ABCDE-+$*EF*-
+Prefix (from tree traversal): -*A$B+C-DE*EF
+
+-----------------------
+Expression: **A+BC+C-BA
+Prefix to postfix: ABC+*CBA-+*
+Postfix to prefix: **A+BC+C-BA
+-- Expression Tree Traversal (Enhancement) 
+Postfix (from tree traversal): ABC+*CBA-+*
+Prefix (from tree traversal): **A+BC+C-BA
+
+-----------------------
+Expression: /A+BC +C*BA
+Prefix to postfix: Invalid Expression
+Postfix to prefix: N/A 
+-- Expression Tree Traversal (Enhancement) 
+Invalid Expression.
+
+-----------------------
+Expression: *-*-ABC+BA
+Prefix to postfix: Invalid Expression
+Postfix to prefix: N/A 
+-- Expression Tree Traversal (Enhancement) 
+Invalid Expression.
+
+-----------------------
+Expression: /+/A-BC-BA
+Prefix to postfix: Invalid Expression
+Postfix to prefix: N/A 
+-- Expression Tree Traversal (Enhancement) 
+Invalid Expression.
+
+-----------------------
+Expression: *$A+BC+C-BA
+Prefix to postfix: ABC+$CBA-+*
+Postfix to prefix: *$A+BC+C-BA
+-- Expression Tree Traversal (Enhancement) 
+Postfix (from tree traversal): ABC+$CBA-+*
+Prefix (from tree traversal): *$A+BC+C-BA
+
+-----------------------
+Expression: //A+B0-C+BA
+Prefix to postfix: AB0+/CBA+-/
+Postfix to prefix: //A+B0-C+BA
+-- Expression Tree Traversal (Enhancement) 
+Postfix (from tree traversal): AB0+/CBA+-/
+Prefix (from tree traversal): //A+B0-C+BA
+
+-----------------------
+Expression: *$A^BC+C-BA
+Prefix to postfix: Invalid Expression
+Postfix to prefix: N/A 
+-- Expression Tree Traversal (Enhancement) 
+Invalid Expression.
+
+-----------------------
