@@ -1,0 +1,44 @@
+Expression: -+ABC
+Prefix to postfix: AB+C-
+Postfix to prefix: -+ABC
+
+Expression: -A+BC
+Prefix to postfix: ABC+-
+Postfix to prefix: -A+BC
+
+Expression: $+-ABC+D-EF
+Prefix to postfix: AB-C+DEF-+$
+Postfix to prefix: $+-ABC+D-EF
+
+Expression: -*A$B+C-DE*EF
+Prefix to postfix: ABCDE-+$*EF*-
+Postfix to prefix: -*A$B+C-DE*EF
+
+Expression: **A+BC+C-BA
+Prefix to postfix: ABC+*CBA-+*
+Postfix to prefix: **A+BC+C-BA
+
+Expression: /A+BC +C*BA
+Prefix to postfix: Invalid prefix expression - more than 1 element in the stack at the end: /A+BC +C*BA
+Postfix to prefix: N/A 
+
+Expression: *-*-ABC+BA
+Prefix to postfix: Invalid prefix expression - less than 2 operands in the stack for operators: *-*-ABC+BA
+Postfix to prefix: N/A 
+
+Expression: /+/A-BC-BA
+Prefix to postfix: Invalid prefix expression - less than 2 operands in the stack for operators: /+/A-BC-BA
+Postfix to prefix: N/A 
+
+Expression: *$A+BC+C-BA
+Prefix to postfix: ABC+$CBA-+*
+Postfix to prefix: *$A+BC+C-BA
+
+Expression: //A+B0-C+BA
+Prefix to postfix: AB0+/CBA+-/
+Postfix to prefix: //A+B0-C+BA
+
+Expression: *$A^BC+C-BA
+Prefix to postfix: Invalid prefix expression - invalid character in the expression: *$A^BC+C-BA
+Postfix to prefix: N/A 
+
