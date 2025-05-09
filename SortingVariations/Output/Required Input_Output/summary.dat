@@ -1,0 +1,5400 @@
+Sort: QuickSortA
+File: rev1K.dat
+Comparisons: 500997, Exchanges: 999
+Execution Time: 3934292 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev1K.dat
+Comparisons: 500850, Exchanges: 5949
+Execution Time: 2456167 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev1K.dat
+Comparisons: 500925, Exchanges: 2224
+Execution Time: 2336500 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev1K.dat
+Comparisons: 11531, Exchanges: 1010
+Execution Time: 103584 ns
+----------------------------------------
+Sort: MergeSort
+File: rev1K.dat
+Comparisons: 4932, Exchanges: 9976
+Execution Time: 42 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc50.dat
+Comparisons: 1321, Exchanges: 48
+Execution Time: 6208 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 1000 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 750 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc50.dat
+Comparisons: 392, Exchanges: 31
+Execution Time: 7666 ns
+----------------------------------------
+Sort: MergeSort
+File: asc50.dat
+Comparisons: 153, Exchanges: 286
+Execution Time: 208 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup1K.dat
+Comparisons: 13519, Exchanges: 2532
+Execution Time: 360292 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup1K.dat
+Comparisons: 20759, Exchanges: 15979
+Execution Time: 267375 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup1K.dat
+Comparisons: 15959, Exchanges: 10097
+Execution Time: 206333 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup1K.dat
+Comparisons: 12778, Exchanges: 2562
+Execution Time: 320166 ns
+----------------------------------------
+Sort: MergeSort
+File: dup1K.dat
+Comparisons: 8670, Exchanges: 9976
+Execution Time: 83 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev10K.dat
+Comparisons: 50009997, Exchanges: 9999
+Execution Time: 34841417 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev10K.dat
+Comparisons: 50009850, Exchanges: 14949
+Execution Time: 35434833 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev10K.dat
+Comparisons: 50009925, Exchanges: 11224
+Execution Time: 35137750 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev10K.dat
+Comparisons: 153131, Exchanges: 10902
+Execution Time: 236583 ns
+----------------------------------------
+Sort: MergeSort
+File: rev10K.dat
+Comparisons: 64608, Exchanges: 133616
+Execution Time: 0 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran500.dat
+Comparisons: 6284, Exchanges: 1138
+Execution Time: 30459 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran500.dat
+Comparisons: 11655, Exchanges: 9846
+Execution Time: 27209 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran500.dat
+Comparisons: 7869, Exchanges: 5399
+Execution Time: 21417 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran500.dat
+Comparisons: 6129, Exchanges: 1130
+Execution Time: 26875 ns
+----------------------------------------
+Sort: MergeSort
+File: ran500.dat
+Comparisons: 3854, Exchanges: 4488
+Execution Time: 41 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran1K.dat
+Comparisons: 14055, Exchanges: 2505
+Execution Time: 58209 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran1K.dat
+Comparisons: 22859, Exchanges: 17647
+Execution Time: 38917 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran1K.dat
+Comparisons: 17516, Exchanges: 11141
+Execution Time: 77500 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran1K.dat
+Comparisons: 13669, Exchanges: 2486
+Execution Time: 58584 ns
+----------------------------------------
+Sort: MergeSort
+File: ran1K.dat
+Comparisons: 8705, Exchanges: 9976
+Execution Time: 125 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup10K.dat
+Comparisons: 185969, Exchanges: 32816
+Execution Time: 529000 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup10K.dat
+Comparisons: 287647, Exchanges: 200783
+Execution Time: 496250 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup10K.dat
+Comparisons: 211592, Exchanges: 110637
+Execution Time: 455250 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup10K.dat
+Comparisons: 171629, Exchanges: 33152
+Execution Time: 601125 ns
+----------------------------------------
+Sort: MergeSort
+File: dup10K.dat
+Comparisons: 120413, Exchanges: 133616
+Execution Time: 83 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran50.dat
+Comparisons: 934, Exchanges: 169
+Execution Time: 5209 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran50.dat
+Comparisons: 1951, Exchanges: 1956
+Execution Time: 3083 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran50.dat
+Comparisons: 1258, Exchanges: 1094
+Execution Time: 3250 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran50.dat
+Comparisons: 858, Exchanges: 166
+Execution Time: 4917 ns
+----------------------------------------
+Sort: MergeSort
+File: ran50.dat
+Comparisons: 477, Exchanges: 672
+Execution Time: 167 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev20K.dat
+Comparisons: 200019997, Exchanges: 19999
+Execution Time: 141661334 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev20K.dat
+Comparisons: 200019850, Exchanges: 24949
+Execution Time: 143017500 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev20K.dat
+Comparisons: 200019925, Exchanges: 21224
+Execution Time: 135999042 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev20K.dat
+Comparisons: 326267, Exchanges: 21806
+Execution Time: 251250 ns
+----------------------------------------
+Sort: MergeSort
+File: rev20K.dat
+Comparisons: 139216, Exchanges: 287232
+Execution Time: 0 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc500.dat
+Comparisons: 125746, Exchanges: 498
+Execution Time: 106959 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc500.dat
+Comparisons: 120699, Exchanges: 499
+Execution Time: 107125 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc500.dat
+Comparisons: 124474, Exchanges: 499
+Execution Time: 110667 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc500.dat
+Comparisons: 5264, Exchanges: 255
+Execution Time: 5166 ns
+----------------------------------------
+Sort: MergeSort
+File: asc500.dat
+Comparisons: 2272, Exchanges: 4488
+Execution Time: 84 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev50.dat
+Comparisons: 1297, Exchanges: 49
+Execution Time: 2125 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 1750 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 1792 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev50.dat
+Comparisons: 391, Exchanges: 55
+Execution Time: 1042 ns
+----------------------------------------
+Sort: MergeSort
+File: rev50.dat
+Comparisons: 133, Exchanges: 286
+Execution Time: 42 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup20K.dat
+Comparisons: 427441, Exchanges: 70292
+Execution Time: 1257042 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup20K.dat
+Comparisons: 619768, Exchanges: 394291
+Execution Time: 1098459 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup20K.dat
+Comparisons: 479419, Exchanges: 226237
+Execution Time: 1004041 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup20K.dat
+Comparisons: 376646, Exchanges: 70572
+Execution Time: 1225500 ns
+----------------------------------------
+Sort: MergeSort
+File: dup20K.dat
+Comparisons: 260891, Exchanges: 287232
+Execution Time: 167 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc1K.dat
+Comparisons: 501496, Exchanges: 998
+Execution Time: 432916 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc1K.dat
+Comparisons: 496449, Exchanges: 999
+Execution Time: 423750 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc1K.dat
+Comparisons: 500224, Exchanges: 999
+Execution Time: 425125 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc1K.dat
+Comparisons: 11532, Exchanges: 511
+Execution Time: 10792 ns
+----------------------------------------
+Sort: MergeSort
+File: asc1K.dat
+Comparisons: 5044, Exchanges: 9976
+Execution Time: 250 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc2K.dat
+Comparisons: 2002996, Exchanges: 1998
+Execution Time: 1726625 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc2K.dat
+Comparisons: 1997949, Exchanges: 1999
+Execution Time: 1660708 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc2K.dat
+Comparisons: 2001724, Exchanges: 1999
+Execution Time: 1746667 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc2K.dat
+Comparisons: 25068, Exchanges: 1023
+Execution Time: 21500 ns
+----------------------------------------
+Sort: MergeSort
+File: asc2K.dat
+Comparisons: 11088, Exchanges: 21952
+Execution Time: 125 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup5K.dat
+Comparisons: 90858, Exchanges: 15227
+Execution Time: 267583 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup5K.dat
+Comparisons: 138753, Exchanges: 95776
+Execution Time: 237959 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup5K.dat
+Comparisons: 102756, Exchanges: 52817
+Execution Time: 213333 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup5K.dat
+Comparisons: 82248, Exchanges: 15237
+Execution Time: 276917 ns
+----------------------------------------
+Sort: MergeSort
+File: dup5K.dat
+Comparisons: 55324, Exchanges: 61808
+Execution Time: 83 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran20K.dat
+Comparisons: 418467, Exchanges: 69748
+Execution Time: 1193208 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran20K.dat
+Comparisons: 604735, Exchanges: 385568
+Execution Time: 1070750 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran20K.dat
+Comparisons: 470325, Exchanges: 226538
+Execution Time: 1051541 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran20K.dat
+Comparisons: 366857, Exchanges: 70533
+Execution Time: 1264542 ns
+----------------------------------------
+Sort: MergeSort
+File: ran20K.dat
+Comparisons: 260994, Exchanges: 287232
+Execution Time: 167 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc10K.dat
+Comparisons: 50014996, Exchanges: 9998
+Execution Time: 40373917 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc10K.dat
+Comparisons: 50009949, Exchanges: 9999
+Execution Time: 40145000 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc10K.dat
+Comparisons: 50013724, Exchanges: 9999
+Execution Time: 39564458 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc10K.dat
+Comparisons: 153132, Exchanges: 5903
+Execution Time: 117334 ns
+----------------------------------------
+Sort: MergeSort
+File: asc10K.dat
+Comparisons: 69008, Exchanges: 133616
+Execution Time: 167 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev5K.dat
+Comparisons: 12504997, Exchanges: 4999
+Execution Time: 8745792 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev5K.dat
+Comparisons: 12504850, Exchanges: 9949
+Execution Time: 8631750 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev5K.dat
+Comparisons: 12504925, Exchanges: 6224
+Execution Time: 8745792 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev5K.dat
+Comparisons: 71563, Exchanges: 5450
+Execution Time: 57917 ns
+----------------------------------------
+Sort: MergeSort
+File: rev5K.dat
+Comparisons: 29804, Exchanges: 61808
+Execution Time: 84 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran5K.dat
+Comparisons: 88236, Exchanges: 15404
+Execution Time: 270000 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran5K.dat
+Comparisons: 137098, Exchanges: 95939
+Execution Time: 243208 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran5K.dat
+Comparisons: 101214, Exchanges: 53499
+Execution Time: 215625 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran5K.dat
+Comparisons: 85296, Exchanges: 15200
+Execution Time: 284584 ns
+----------------------------------------
+Sort: MergeSort
+File: ran5K.dat
+Comparisons: 55160, Exchanges: 61808
+Execution Time: 83 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran2K.dat
+Comparisons: 30540, Exchanges: 5481
+Execution Time: 93625 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran2K.dat
+Comparisons: 51459, Exchanges: 39367
+Execution Time: 85875 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran2K.dat
+Comparisons: 35345, Exchanges: 20702
+Execution Time: 78291 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran2K.dat
+Comparisons: 29285, Exchanges: 5470
+Execution Time: 102708 ns
+----------------------------------------
+Sort: MergeSort
+File: ran2K.dat
+Comparisons: 19436, Exchanges: 21952
+Execution Time: 42 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc20K.dat
+Comparisons: 200029996, Exchanges: 19998
+Execution Time: 159320167 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc20K.dat
+Comparisons: 200024949, Exchanges: 19999
+Execution Time: 157396417 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc20K.dat
+Comparisons: 200028724, Exchanges: 19999
+Execution Time: 157824250 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc20K.dat
+Comparisons: 326268, Exchanges: 11807
+Execution Time: 239917 ns
+----------------------------------------
+Sort: MergeSort
+File: asc20K.dat
+Comparisons: 148016, Exchanges: 287232
+Execution Time: 42 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev500-1.dat
+Comparisons: 125497, Exchanges: 499
+Execution Time: 95916 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev500-1.dat
+Comparisons: 125350, Exchanges: 5449
+Execution Time: 93458 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev500-1.dat
+Comparisons: 125425, Exchanges: 1724
+Execution Time: 92417 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev500-1.dat
+Comparisons: 5263, Exchanges: 504
+Execution Time: 5833 ns
+----------------------------------------
+Sort: MergeSort
+File: rev500-1.dat
+Comparisons: 2216, Exchanges: 4488
+Execution Time: 83 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran10K.dat
+Comparisons: 188787, Exchanges: 32800
+Execution Time: 527542 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran10K.dat
+Comparisons: 290092, Exchanges: 200224
+Execution Time: 492833 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran10K.dat
+Comparisons: 215552, Exchanges: 112261
+Execution Time: 455791 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran10K.dat
+Comparisons: 171531, Exchanges: 32950
+Execution Time: 603875 ns
+----------------------------------------
+Sort: MergeSort
+File: ran10K.dat
+Comparisons: 120483, Exchanges: 133616
+Execution Time: 42 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup500.dat
+Comparisons: 6106, Exchanges: 1132
+Execution Time: 22917 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup500.dat
+Comparisons: 10031, Exchanges: 7842
+Execution Time: 17333 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup500.dat
+Comparisons: 7432, Exchanges: 4943
+Execution Time: 17084 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup500.dat
+Comparisons: 6093, Exchanges: 1141
+Execution Time: 24916 ns
+----------------------------------------
+Sort: MergeSort
+File: dup500.dat
+Comparisons: 3842, Exchanges: 4488
+Execution Time: 42 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup2K.dat
+Comparisons: 33400, Exchanges: 5572
+Execution Time: 97541 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup2K.dat
+Comparisons: 50480, Exchanges: 35160
+Execution Time: 83875 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup2K.dat
+Comparisons: 39174, Exchanges: 21753
+Execution Time: 81125 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup2K.dat
+Comparisons: 30757, Exchanges: 5422
+Execution Time: 102959 ns
+----------------------------------------
+Sort: MergeSort
+File: dup2K.dat
+Comparisons: 19417, Exchanges: 21952
+Execution Time: 42 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc5K.dat
+Comparisons: 12507496, Exchanges: 4998
+Execution Time: 10091625 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc5K.dat
+Comparisons: 12502449, Exchanges: 4999
+Execution Time: 9889000 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc5K.dat
+Comparisons: 12506224, Exchanges: 4999
+Execution Time: 9932083 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc5K.dat
+Comparisons: 71564, Exchanges: 2951
+Execution Time: 55708 ns
+----------------------------------------
+Sort: MergeSort
+File: asc5K.dat
+Comparisons: 32004, Exchanges: 61808
+Execution Time: 125 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev2K.dat
+Comparisons: 2001997, Exchanges: 1999
+Execution Time: 1387083 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev2K.dat
+Comparisons: 2001850, Exchanges: 6949
+Execution Time: 1419667 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev2K.dat
+Comparisons: 2001925, Exchanges: 3224
+Execution Time: 1359375 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev2K.dat
+Comparisons: 25067, Exchanges: 2022
+Execution Time: 20166 ns
+----------------------------------------
+Sort: MergeSort
+File: rev2K.dat
+Comparisons: 10864, Exchanges: 21952
+Execution Time: 0 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev1K.dat
+Comparisons: 500997, Exchanges: 999
+Execution Time: 3797833 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev1K.dat
+Comparisons: 500850, Exchanges: 5949
+Execution Time: 2117250 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev1K.dat
+Comparisons: 500925, Exchanges: 2224
+Execution Time: 529917 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev1K.dat
+Comparisons: 11531, Exchanges: 1010
+Execution Time: 110959 ns
+----------------------------------------
+Sort: MergeSort
+File: rev1K.dat
+Comparisons: 4932, Exchanges: 9976
+Execution Time: 1434209 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc50.dat
+Comparisons: 1321, Exchanges: 48
+Execution Time: 7541 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 1000 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 875 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc50.dat
+Comparisons: 392, Exchanges: 31
+Execution Time: 7583 ns
+----------------------------------------
+Sort: MergeSort
+File: asc50.dat
+Comparisons: 153, Exchanges: 286
+Execution Time: 26917 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup1K.dat
+Comparisons: 13519, Exchanges: 2532
+Execution Time: 362542 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup1K.dat
+Comparisons: 20759, Exchanges: 15979
+Execution Time: 228041 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup1K.dat
+Comparisons: 15959, Exchanges: 10097
+Execution Time: 204791 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup1K.dat
+Comparisons: 12778, Exchanges: 2562
+Execution Time: 302708 ns
+----------------------------------------
+Sort: MergeSort
+File: dup1K.dat
+Comparisons: 8670, Exchanges: 9976
+Execution Time: 190542 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev10K.dat
+Comparisons: 50009997, Exchanges: 9999
+Execution Time: 34981500 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev10K.dat
+Comparisons: 50009850, Exchanges: 14949
+Execution Time: 35318875 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev10K.dat
+Comparisons: 50009925, Exchanges: 11224
+Execution Time: 34990041 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev10K.dat
+Comparisons: 153131, Exchanges: 10902
+Execution Time: 253375 ns
+----------------------------------------
+Sort: MergeSort
+File: rev10K.dat
+Comparisons: 64608, Exchanges: 133616
+Execution Time: 1475167 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran500.dat
+Comparisons: 6284, Exchanges: 1138
+Execution Time: 30542 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran500.dat
+Comparisons: 11655, Exchanges: 9846
+Execution Time: 26334 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran500.dat
+Comparisons: 7869, Exchanges: 5399
+Execution Time: 20750 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran500.dat
+Comparisons: 6129, Exchanges: 1130
+Execution Time: 27208 ns
+----------------------------------------
+Sort: MergeSort
+File: ran500.dat
+Comparisons: 3854, Exchanges: 4488
+Execution Time: 102709 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran1K.dat
+Comparisons: 14055, Exchanges: 2505
+Execution Time: 46500 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran1K.dat
+Comparisons: 22859, Exchanges: 17647
+Execution Time: 39417 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran1K.dat
+Comparisons: 17516, Exchanges: 11141
+Execution Time: 35875 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran1K.dat
+Comparisons: 13669, Exchanges: 2486
+Execution Time: 57833 ns
+----------------------------------------
+Sort: MergeSort
+File: ran1K.dat
+Comparisons: 8705, Exchanges: 9976
+Execution Time: 191417 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup10K.dat
+Comparisons: 185969, Exchanges: 32816
+Execution Time: 571125 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup10K.dat
+Comparisons: 287647, Exchanges: 200783
+Execution Time: 515416 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup10K.dat
+Comparisons: 211592, Exchanges: 110637
+Execution Time: 487250 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup10K.dat
+Comparisons: 171629, Exchanges: 33152
+Execution Time: 602041 ns
+----------------------------------------
+Sort: MergeSort
+File: dup10K.dat
+Comparisons: 120413, Exchanges: 133616
+Execution Time: 1816583 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran50.dat
+Comparisons: 934, Exchanges: 169
+Execution Time: 5166 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran50.dat
+Comparisons: 1951, Exchanges: 1956
+Execution Time: 3333 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran50.dat
+Comparisons: 1258, Exchanges: 1094
+Execution Time: 3583 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran50.dat
+Comparisons: 858, Exchanges: 166
+Execution Time: 5083 ns
+----------------------------------------
+Sort: MergeSort
+File: ran50.dat
+Comparisons: 477, Exchanges: 672
+Execution Time: 29125 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev20K.dat
+Comparisons: 200019997, Exchanges: 19999
+Execution Time: 154025208 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev20K.dat
+Comparisons: 200019850, Exchanges: 24949
+Execution Time: 138588834 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev20K.dat
+Comparisons: 200019925, Exchanges: 21224
+Execution Time: 136928875 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev20K.dat
+Comparisons: 326267, Exchanges: 21806
+Execution Time: 273542 ns
+----------------------------------------
+Sort: MergeSort
+File: rev20K.dat
+Comparisons: 139216, Exchanges: 287232
+Execution Time: 1835375 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc500.dat
+Comparisons: 125746, Exchanges: 498
+Execution Time: 114750 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc500.dat
+Comparisons: 120699, Exchanges: 499
+Execution Time: 101958 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc500.dat
+Comparisons: 124474, Exchanges: 499
+Execution Time: 109166 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc500.dat
+Comparisons: 5264, Exchanges: 255
+Execution Time: 5875 ns
+----------------------------------------
+Sort: MergeSort
+File: asc500.dat
+Comparisons: 2272, Exchanges: 4488
+Execution Time: 58042 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev50.dat
+Comparisons: 1297, Exchanges: 49
+Execution Time: 2292 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 2292 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 2083 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev50.dat
+Comparisons: 391, Exchanges: 55
+Execution Time: 1458 ns
+----------------------------------------
+Sort: MergeSort
+File: rev50.dat
+Comparisons: 133, Exchanges: 286
+Execution Time: 19833 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup20K.dat
+Comparisons: 427441, Exchanges: 70292
+Execution Time: 1224750 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup20K.dat
+Comparisons: 619768, Exchanges: 394291
+Execution Time: 1067375 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup20K.dat
+Comparisons: 479419, Exchanges: 226237
+Execution Time: 971084 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup20K.dat
+Comparisons: 376646, Exchanges: 70572
+Execution Time: 1245208 ns
+----------------------------------------
+Sort: MergeSort
+File: dup20K.dat
+Comparisons: 260891, Exchanges: 287232
+Execution Time: 3024666 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc1K.dat
+Comparisons: 501496, Exchanges: 998
+Execution Time: 416916 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc1K.dat
+Comparisons: 496449, Exchanges: 999
+Execution Time: 430667 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc1K.dat
+Comparisons: 500224, Exchanges: 999
+Execution Time: 426666 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc1K.dat
+Comparisons: 11532, Exchanges: 511
+Execution Time: 10667 ns
+----------------------------------------
+Sort: MergeSort
+File: asc1K.dat
+Comparisons: 5044, Exchanges: 9976
+Execution Time: 129500 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc2K.dat
+Comparisons: 2002996, Exchanges: 1998
+Execution Time: 1682750 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc2K.dat
+Comparisons: 1997949, Exchanges: 1999
+Execution Time: 1660167 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc2K.dat
+Comparisons: 2001724, Exchanges: 1999
+Execution Time: 1979417 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc2K.dat
+Comparisons: 25068, Exchanges: 1023
+Execution Time: 21500 ns
+----------------------------------------
+Sort: MergeSort
+File: asc2K.dat
+Comparisons: 11088, Exchanges: 21952
+Execution Time: 149000 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup5K.dat
+Comparisons: 90858, Exchanges: 15227
+Execution Time: 271333 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup5K.dat
+Comparisons: 138753, Exchanges: 95776
+Execution Time: 238500 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup5K.dat
+Comparisons: 102756, Exchanges: 52817
+Execution Time: 219792 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup5K.dat
+Comparisons: 82248, Exchanges: 15237
+Execution Time: 295833 ns
+----------------------------------------
+Sort: MergeSort
+File: dup5K.dat
+Comparisons: 55324, Exchanges: 61808
+Execution Time: 664875 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran20K.dat
+Comparisons: 418467, Exchanges: 69748
+Execution Time: 1215958 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran20K.dat
+Comparisons: 604735, Exchanges: 385568
+Execution Time: 1062541 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran20K.dat
+Comparisons: 470325, Exchanges: 226538
+Execution Time: 986250 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran20K.dat
+Comparisons: 366857, Exchanges: 70533
+Execution Time: 1349916 ns
+----------------------------------------
+Sort: MergeSort
+File: ran20K.dat
+Comparisons: 260994, Exchanges: 287232
+Execution Time: 2107750 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc10K.dat
+Comparisons: 50014996, Exchanges: 9998
+Execution Time: 39619750 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc10K.dat
+Comparisons: 50009949, Exchanges: 9999
+Execution Time: 39347166 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc10K.dat
+Comparisons: 50013724, Exchanges: 9999
+Execution Time: 39614584 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc10K.dat
+Comparisons: 153132, Exchanges: 5903
+Execution Time: 111583 ns
+----------------------------------------
+Sort: MergeSort
+File: asc10K.dat
+Comparisons: 69008, Exchanges: 133616
+Execution Time: 553417 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev5K.dat
+Comparisons: 12504997, Exchanges: 4999
+Execution Time: 8583625 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev5K.dat
+Comparisons: 12504850, Exchanges: 9949
+Execution Time: 8486125 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev5K.dat
+Comparisons: 12504925, Exchanges: 6224
+Execution Time: 8563625 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev5K.dat
+Comparisons: 71563, Exchanges: 5450
+Execution Time: 57834 ns
+----------------------------------------
+Sort: MergeSort
+File: rev5K.dat
+Comparisons: 29804, Exchanges: 61808
+Execution Time: 289000 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran5K.dat
+Comparisons: 88236, Exchanges: 15404
+Execution Time: 277167 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran5K.dat
+Comparisons: 137098, Exchanges: 95939
+Execution Time: 241833 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran5K.dat
+Comparisons: 101214, Exchanges: 53499
+Execution Time: 223541 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran5K.dat
+Comparisons: 85296, Exchanges: 15200
+Execution Time: 283833 ns
+----------------------------------------
+Sort: MergeSort
+File: ran5K.dat
+Comparisons: 55160, Exchanges: 61808
+Execution Time: 554750 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran2K.dat
+Comparisons: 30540, Exchanges: 5481
+Execution Time: 94542 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran2K.dat
+Comparisons: 51459, Exchanges: 39367
+Execution Time: 87208 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran2K.dat
+Comparisons: 35345, Exchanges: 20702
+Execution Time: 79792 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran2K.dat
+Comparisons: 29285, Exchanges: 5470
+Execution Time: 102834 ns
+----------------------------------------
+Sort: MergeSort
+File: ran2K.dat
+Comparisons: 19436, Exchanges: 21952
+Execution Time: 186833 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc20K.dat
+Comparisons: 200029996, Exchanges: 19998
+Execution Time: 158789084 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc20K.dat
+Comparisons: 200024949, Exchanges: 19999
+Execution Time: 160236417 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc20K.dat
+Comparisons: 200028724, Exchanges: 19999
+Execution Time: 158414416 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc20K.dat
+Comparisons: 326268, Exchanges: 11807
+Execution Time: 236167 ns
+----------------------------------------
+Sort: MergeSort
+File: asc20K.dat
+Comparisons: 148016, Exchanges: 287232
+Execution Time: 1140417 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev500-1.dat
+Comparisons: 125497, Exchanges: 499
+Execution Time: 105917 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev500-1.dat
+Comparisons: 125350, Exchanges: 5449
+Execution Time: 101000 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev500-1.dat
+Comparisons: 125425, Exchanges: 1724
+Execution Time: 94709 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev500-1.dat
+Comparisons: 5263, Exchanges: 504
+Execution Time: 6000 ns
+----------------------------------------
+Sort: MergeSort
+File: rev500-1.dat
+Comparisons: 2216, Exchanges: 4488
+Execution Time: 29666 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran10K.dat
+Comparisons: 188787, Exchanges: 32800
+Execution Time: 554542 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran10K.dat
+Comparisons: 290092, Exchanges: 200224
+Execution Time: 519458 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran10K.dat
+Comparisons: 215552, Exchanges: 112261
+Execution Time: 464958 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran10K.dat
+Comparisons: 171531, Exchanges: 32950
+Execution Time: 602167 ns
+----------------------------------------
+Sort: MergeSort
+File: ran10K.dat
+Comparisons: 120483, Exchanges: 133616
+Execution Time: 1010708 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup500.dat
+Comparisons: 6106, Exchanges: 1132
+Execution Time: 23792 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup500.dat
+Comparisons: 10031, Exchanges: 7842
+Execution Time: 18125 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup500.dat
+Comparisons: 7432, Exchanges: 4943
+Execution Time: 16542 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup500.dat
+Comparisons: 6093, Exchanges: 1141
+Execution Time: 24791 ns
+----------------------------------------
+Sort: MergeSort
+File: dup500.dat
+Comparisons: 3842, Exchanges: 4488
+Execution Time: 45084 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup2K.dat
+Comparisons: 33400, Exchanges: 5572
+Execution Time: 97042 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup2K.dat
+Comparisons: 50480, Exchanges: 35160
+Execution Time: 88541 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup2K.dat
+Comparisons: 39174, Exchanges: 21753
+Execution Time: 82250 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup2K.dat
+Comparisons: 30757, Exchanges: 5422
+Execution Time: 103875 ns
+----------------------------------------
+Sort: MergeSort
+File: dup2K.dat
+Comparisons: 19417, Exchanges: 21952
+Execution Time: 164792 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc5K.dat
+Comparisons: 12507496, Exchanges: 4998
+Execution Time: 9876875 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc5K.dat
+Comparisons: 12502449, Exchanges: 4999
+Execution Time: 9879625 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc5K.dat
+Comparisons: 12506224, Exchanges: 4999
+Execution Time: 9930667 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc5K.dat
+Comparisons: 71564, Exchanges: 2951
+Execution Time: 53500 ns
+----------------------------------------
+Sort: MergeSort
+File: asc5K.dat
+Comparisons: 32004, Exchanges: 61808
+Execution Time: 209250 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev2K.dat
+Comparisons: 2001997, Exchanges: 1999
+Execution Time: 1454917 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev2K.dat
+Comparisons: 2001850, Exchanges: 6949
+Execution Time: 1376458 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev2K.dat
+Comparisons: 2001925, Exchanges: 3224
+Execution Time: 1369667 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev2K.dat
+Comparisons: 25067, Exchanges: 2022
+Execution Time: 20958 ns
+----------------------------------------
+Sort: MergeSort
+File: rev2K.dat
+Comparisons: 10864, Exchanges: 21952
+Execution Time: 86500 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev1K.dat
+Comparisons: 500997, Exchanges: 999
+Execution Time: 4320917 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev1K.dat
+Comparisons: 500850, Exchanges: 5949
+Execution Time: 2528792 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev1K.dat
+Comparisons: 500925, Exchanges: 2224
+Execution Time: 2697750 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev1K.dat
+Comparisons: 11531, Exchanges: 1010
+Execution Time: 145083 ns
+----------------------------------------
+Sort: MergeSort
+File: rev1K.dat
+Comparisons: 4932, Exchanges: 9976
+Execution Time: 1055625 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc50.dat
+Comparisons: 1321, Exchanges: 48
+Execution Time: 6750 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 1166 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 792 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc50.dat
+Comparisons: 392, Exchanges: 31
+Execution Time: 8375 ns
+----------------------------------------
+Sort: MergeSort
+File: asc50.dat
+Comparisons: 153, Exchanges: 286
+Execution Time: 27833 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup1K.dat
+Comparisons: 13519, Exchanges: 2532
+Execution Time: 369791 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup1K.dat
+Comparisons: 20759, Exchanges: 15979
+Execution Time: 141375 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup1K.dat
+Comparisons: 15959, Exchanges: 10097
+Execution Time: 72125 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup1K.dat
+Comparisons: 12778, Exchanges: 2562
+Execution Time: 62000 ns
+----------------------------------------
+Sort: MergeSort
+File: dup1K.dat
+Comparisons: 8670, Exchanges: 9976
+Execution Time: 196542 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev10K.dat
+Comparisons: 50009997, Exchanges: 9999
+Execution Time: 36209750 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev10K.dat
+Comparisons: 50009850, Exchanges: 14949
+Execution Time: 36020459 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev10K.dat
+Comparisons: 50009925, Exchanges: 11224
+Execution Time: 34936875 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev10K.dat
+Comparisons: 153131, Exchanges: 10902
+Execution Time: 193375 ns
+----------------------------------------
+Sort: MergeSort
+File: rev10K.dat
+Comparisons: 64608, Exchanges: 133616
+Execution Time: 1590208 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran500.dat
+Comparisons: 6284, Exchanges: 1138
+Execution Time: 32000 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran500.dat
+Comparisons: 11655, Exchanges: 9846
+Execution Time: 27458 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran500.dat
+Comparisons: 7869, Exchanges: 5399
+Execution Time: 24500 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran500.dat
+Comparisons: 6129, Exchanges: 1130
+Execution Time: 35083 ns
+----------------------------------------
+Sort: MergeSort
+File: ran500.dat
+Comparisons: 3854, Exchanges: 4488
+Execution Time: 113291 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran1K.dat
+Comparisons: 14055, Exchanges: 2505
+Execution Time: 46709 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran1K.dat
+Comparisons: 22859, Exchanges: 17647
+Execution Time: 39958 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran1K.dat
+Comparisons: 17516, Exchanges: 11141
+Execution Time: 36916 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran1K.dat
+Comparisons: 13669, Exchanges: 2486
+Execution Time: 117083 ns
+----------------------------------------
+Sort: MergeSort
+File: ran1K.dat
+Comparisons: 8705, Exchanges: 9976
+Execution Time: 199708 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup10K.dat
+Comparisons: 185969, Exchanges: 32816
+Execution Time: 560875 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup10K.dat
+Comparisons: 287647, Exchanges: 200783
+Execution Time: 505584 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup10K.dat
+Comparisons: 211592, Exchanges: 110637
+Execution Time: 489250 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup10K.dat
+Comparisons: 171629, Exchanges: 33152
+Execution Time: 585750 ns
+----------------------------------------
+Sort: MergeSort
+File: dup10K.dat
+Comparisons: 120413, Exchanges: 133616
+Execution Time: 1781917 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran50.dat
+Comparisons: 934, Exchanges: 169
+Execution Time: 5833 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran50.dat
+Comparisons: 1951, Exchanges: 1956
+Execution Time: 3500 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran50.dat
+Comparisons: 1258, Exchanges: 1094
+Execution Time: 3625 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran50.dat
+Comparisons: 858, Exchanges: 166
+Execution Time: 4875 ns
+----------------------------------------
+Sort: MergeSort
+File: ran50.dat
+Comparisons: 477, Exchanges: 672
+Execution Time: 29750 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev20K.dat
+Comparisons: 200019997, Exchanges: 19999
+Execution Time: 144858792 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev20K.dat
+Comparisons: 200019850, Exchanges: 24949
+Execution Time: 142586666 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev20K.dat
+Comparisons: 200019925, Exchanges: 21224
+Execution Time: 140460709 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev20K.dat
+Comparisons: 326267, Exchanges: 21806
+Execution Time: 321667 ns
+----------------------------------------
+Sort: MergeSort
+File: rev20K.dat
+Comparisons: 139216, Exchanges: 287232
+Execution Time: 2019292 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc500.dat
+Comparisons: 125746, Exchanges: 498
+Execution Time: 114084 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc500.dat
+Comparisons: 120699, Exchanges: 499
+Execution Time: 105875 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc500.dat
+Comparisons: 124474, Exchanges: 499
+Execution Time: 113084 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc500.dat
+Comparisons: 5264, Exchanges: 255
+Execution Time: 470542 ns
+----------------------------------------
+Sort: MergeSort
+File: asc500.dat
+Comparisons: 2272, Exchanges: 4488
+Execution Time: 60333 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev50.dat
+Comparisons: 1297, Exchanges: 49
+Execution Time: 2542 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 2417 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 2291 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev50.dat
+Comparisons: 391, Exchanges: 55
+Execution Time: 2083 ns
+----------------------------------------
+Sort: MergeSort
+File: rev50.dat
+Comparisons: 133, Exchanges: 286
+Execution Time: 18459 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup20K.dat
+Comparisons: 427441, Exchanges: 70292
+Execution Time: 1183583 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup20K.dat
+Comparisons: 619768, Exchanges: 394291
+Execution Time: 1721625 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup20K.dat
+Comparisons: 479419, Exchanges: 226237
+Execution Time: 1674833 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup20K.dat
+Comparisons: 376646, Exchanges: 70572
+Execution Time: 1697584 ns
+----------------------------------------
+Sort: MergeSort
+File: dup20K.dat
+Comparisons: 260891, Exchanges: 287232
+Execution Time: 4880333 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc1K.dat
+Comparisons: 501496, Exchanges: 998
+Execution Time: 494458 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc1K.dat
+Comparisons: 496449, Exchanges: 999
+Execution Time: 519375 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc1K.dat
+Comparisons: 500224, Exchanges: 999
+Execution Time: 445625 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc1K.dat
+Comparisons: 11532, Exchanges: 511
+Execution Time: 11250 ns
+----------------------------------------
+Sort: MergeSort
+File: asc1K.dat
+Comparisons: 5044, Exchanges: 9976
+Execution Time: 180000 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc2K.dat
+Comparisons: 2002996, Exchanges: 1998
+Execution Time: 1657625 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc2K.dat
+Comparisons: 1997949, Exchanges: 1999
+Execution Time: 1785541 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc2K.dat
+Comparisons: 2001724, Exchanges: 1999
+Execution Time: 1680500 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc2K.dat
+Comparisons: 25068, Exchanges: 1023
+Execution Time: 22625 ns
+----------------------------------------
+Sort: MergeSort
+File: asc2K.dat
+Comparisons: 11088, Exchanges: 21952
+Execution Time: 173542 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup5K.dat
+Comparisons: 90858, Exchanges: 15227
+Execution Time: 267667 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup5K.dat
+Comparisons: 138753, Exchanges: 95776
+Execution Time: 240458 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup5K.dat
+Comparisons: 102756, Exchanges: 52817
+Execution Time: 221458 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup5K.dat
+Comparisons: 82248, Exchanges: 15237
+Execution Time: 290750 ns
+----------------------------------------
+Sort: MergeSort
+File: dup5K.dat
+Comparisons: 55324, Exchanges: 61808
+Execution Time: 559333 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran20K.dat
+Comparisons: 418467, Exchanges: 69748
+Execution Time: 1200375 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran20K.dat
+Comparisons: 604735, Exchanges: 385568
+Execution Time: 2384417 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran20K.dat
+Comparisons: 470325, Exchanges: 226538
+Execution Time: 1163208 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran20K.dat
+Comparisons: 366857, Exchanges: 70533
+Execution Time: 1283916 ns
+----------------------------------------
+Sort: MergeSort
+File: ran20K.dat
+Comparisons: 260994, Exchanges: 287232
+Execution Time: 2320459 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc10K.dat
+Comparisons: 50014996, Exchanges: 9998
+Execution Time: 49057208 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc10K.dat
+Comparisons: 50009949, Exchanges: 9999
+Execution Time: 40290792 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc10K.dat
+Comparisons: 50013724, Exchanges: 9999
+Execution Time: 43382083 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc10K.dat
+Comparisons: 153132, Exchanges: 5903
+Execution Time: 110000 ns
+----------------------------------------
+Sort: MergeSort
+File: asc10K.dat
+Comparisons: 69008, Exchanges: 133616
+Execution Time: 623458 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev5K.dat
+Comparisons: 12504997, Exchanges: 4999
+Execution Time: 9433125 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev5K.dat
+Comparisons: 12504850, Exchanges: 9949
+Execution Time: 9043250 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev5K.dat
+Comparisons: 12504925, Exchanges: 6224
+Execution Time: 8714916 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev5K.dat
+Comparisons: 71563, Exchanges: 5450
+Execution Time: 60125 ns
+----------------------------------------
+Sort: MergeSort
+File: rev5K.dat
+Comparisons: 29804, Exchanges: 61808
+Execution Time: 324792 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran5K.dat
+Comparisons: 88236, Exchanges: 15404
+Execution Time: 271833 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran5K.dat
+Comparisons: 137098, Exchanges: 95939
+Execution Time: 235416 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran5K.dat
+Comparisons: 101214, Exchanges: 53499
+Execution Time: 221209 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran5K.dat
+Comparisons: 85296, Exchanges: 15200
+Execution Time: 282709 ns
+----------------------------------------
+Sort: MergeSort
+File: ran5K.dat
+Comparisons: 55160, Exchanges: 61808
+Execution Time: 530125 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran2K.dat
+Comparisons: 30540, Exchanges: 5481
+Execution Time: 96792 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran2K.dat
+Comparisons: 51459, Exchanges: 39367
+Execution Time: 105458 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran2K.dat
+Comparisons: 35345, Exchanges: 20702
+Execution Time: 76292 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran2K.dat
+Comparisons: 29285, Exchanges: 5470
+Execution Time: 105916 ns
+----------------------------------------
+Sort: MergeSort
+File: ran2K.dat
+Comparisons: 19436, Exchanges: 21952
+Execution Time: 255083 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc20K.dat
+Comparisons: 200029996, Exchanges: 19998
+Execution Time: 160373750 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc20K.dat
+Comparisons: 200024949, Exchanges: 19999
+Execution Time: 162655000 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc20K.dat
+Comparisons: 200028724, Exchanges: 19999
+Execution Time: 159385125 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc20K.dat
+Comparisons: 326268, Exchanges: 11807
+Execution Time: 243250 ns
+----------------------------------------
+Sort: MergeSort
+File: asc20K.dat
+Comparisons: 148016, Exchanges: 287232
+Execution Time: 1151458 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev500-1.dat
+Comparisons: 125497, Exchanges: 499
+Execution Time: 96292 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev500-1.dat
+Comparisons: 125350, Exchanges: 5449
+Execution Time: 92833 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev500-1.dat
+Comparisons: 125425, Exchanges: 1724
+Execution Time: 94959 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev500-1.dat
+Comparisons: 5263, Exchanges: 504
+Execution Time: 5750 ns
+----------------------------------------
+Sort: MergeSort
+File: rev500-1.dat
+Comparisons: 2216, Exchanges: 4488
+Execution Time: 25625 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran10K.dat
+Comparisons: 188787, Exchanges: 32800
+Execution Time: 533833 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran10K.dat
+Comparisons: 290092, Exchanges: 200224
+Execution Time: 604583 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran10K.dat
+Comparisons: 215552, Exchanges: 112261
+Execution Time: 466958 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran10K.dat
+Comparisons: 171531, Exchanges: 32950
+Execution Time: 595916 ns
+----------------------------------------
+Sort: MergeSort
+File: ran10K.dat
+Comparisons: 120483, Exchanges: 133616
+Execution Time: 1029875 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup500.dat
+Comparisons: 6106, Exchanges: 1132
+Execution Time: 23791 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup500.dat
+Comparisons: 10031, Exchanges: 7842
+Execution Time: 18875 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup500.dat
+Comparisons: 7432, Exchanges: 4943
+Execution Time: 16667 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup500.dat
+Comparisons: 6093, Exchanges: 1141
+Execution Time: 27750 ns
+----------------------------------------
+Sort: MergeSort
+File: dup500.dat
+Comparisons: 3842, Exchanges: 4488
+Execution Time: 39500 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup2K.dat
+Comparisons: 33400, Exchanges: 5572
+Execution Time: 97042 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup2K.dat
+Comparisons: 50480, Exchanges: 35160
+Execution Time: 81125 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup2K.dat
+Comparisons: 39174, Exchanges: 21753
+Execution Time: 74834 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup2K.dat
+Comparisons: 30757, Exchanges: 5422
+Execution Time: 93000 ns
+----------------------------------------
+Sort: MergeSort
+File: dup2K.dat
+Comparisons: 19417, Exchanges: 21952
+Execution Time: 148417 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc5K.dat
+Comparisons: 12507496, Exchanges: 4998
+Execution Time: 10426750 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc5K.dat
+Comparisons: 12502449, Exchanges: 4999
+Execution Time: 10449334 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc5K.dat
+Comparisons: 12506224, Exchanges: 4999
+Execution Time: 10982958 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc5K.dat
+Comparisons: 71564, Exchanges: 2951
+Execution Time: 53833 ns
+----------------------------------------
+Sort: MergeSort
+File: asc5K.dat
+Comparisons: 32004, Exchanges: 61808
+Execution Time: 218625 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev2K.dat
+Comparisons: 2001997, Exchanges: 1999
+Execution Time: 1427125 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev2K.dat
+Comparisons: 2001850, Exchanges: 6949
+Execution Time: 1361292 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev2K.dat
+Comparisons: 2001925, Exchanges: 3224
+Execution Time: 1381250 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev2K.dat
+Comparisons: 25067, Exchanges: 2022
+Execution Time: 21583 ns
+----------------------------------------
+Sort: MergeSort
+File: rev2K.dat
+Comparisons: 10864, Exchanges: 21952
+Execution Time: 84958 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev1K.dat
+Comparisons: 500997, Exchanges: 999
+Execution Time: 3773625 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev1K.dat
+Comparisons: 500850, Exchanges: 5949
+Execution Time: 2617291 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev1K.dat
+Comparisons: 500925, Exchanges: 2224
+Execution Time: 811375 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev1K.dat
+Comparisons: 11531, Exchanges: 1010
+Execution Time: 102042 ns
+----------------------------------------
+Sort: MergeSort
+File: rev1K.dat
+Comparisons: 4932, Exchanges: 9976
+Execution Time: 1056791 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc50.dat
+Comparisons: 1321, Exchanges: 48
+Execution Time: 6583 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 1167 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 833 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc50.dat
+Comparisons: 392, Exchanges: 31
+Execution Time: 9042 ns
+----------------------------------------
+Sort: MergeSort
+File: asc50.dat
+Comparisons: 153, Exchanges: 286
+Execution Time: 63625 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup1K.dat
+Comparisons: 13519, Exchanges: 2532
+Execution Time: 361041 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup1K.dat
+Comparisons: 20759, Exchanges: 15979
+Execution Time: 218083 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup1K.dat
+Comparisons: 15959, Exchanges: 10097
+Execution Time: 215833 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup1K.dat
+Comparisons: 12778, Exchanges: 2562
+Execution Time: 322792 ns
+----------------------------------------
+Sort: MergeSort
+File: dup1K.dat
+Comparisons: 8670, Exchanges: 9976
+Execution Time: 191042 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev10K.dat
+Comparisons: 50009997, Exchanges: 9999
+Execution Time: 36262333 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev10K.dat
+Comparisons: 50009850, Exchanges: 14949
+Execution Time: 35215708 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev10K.dat
+Comparisons: 50009925, Exchanges: 11224
+Execution Time: 34863958 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev10K.dat
+Comparisons: 153131, Exchanges: 10902
+Execution Time: 490166 ns
+----------------------------------------
+Sort: MergeSort
+File: rev10K.dat
+Comparisons: 64608, Exchanges: 133616
+Execution Time: 1564792 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran500.dat
+Comparisons: 6284, Exchanges: 1138
+Execution Time: 29625 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran500.dat
+Comparisons: 11655, Exchanges: 9846
+Execution Time: 26250 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran500.dat
+Comparisons: 7869, Exchanges: 5399
+Execution Time: 22750 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran500.dat
+Comparisons: 6129, Exchanges: 1130
+Execution Time: 26208 ns
+----------------------------------------
+Sort: MergeSort
+File: ran500.dat
+Comparisons: 3854, Exchanges: 4488
+Execution Time: 97292 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran1K.dat
+Comparisons: 14055, Exchanges: 2505
+Execution Time: 45541 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran1K.dat
+Comparisons: 22859, Exchanges: 17647
+Execution Time: 38291 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran1K.dat
+Comparisons: 17516, Exchanges: 11141
+Execution Time: 36500 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran1K.dat
+Comparisons: 13669, Exchanges: 2486
+Execution Time: 86625 ns
+----------------------------------------
+Sort: MergeSort
+File: ran1K.dat
+Comparisons: 8705, Exchanges: 9976
+Execution Time: 200042 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup10K.dat
+Comparisons: 185969, Exchanges: 32816
+Execution Time: 573542 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup10K.dat
+Comparisons: 287647, Exchanges: 200783
+Execution Time: 531083 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup10K.dat
+Comparisons: 211592, Exchanges: 110637
+Execution Time: 492125 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup10K.dat
+Comparisons: 171629, Exchanges: 33152
+Execution Time: 595334 ns
+----------------------------------------
+Sort: MergeSort
+File: dup10K.dat
+Comparisons: 120413, Exchanges: 133616
+Execution Time: 1894000 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran50.dat
+Comparisons: 934, Exchanges: 169
+Execution Time: 5084 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran50.dat
+Comparisons: 1951, Exchanges: 1956
+Execution Time: 3209 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran50.dat
+Comparisons: 1258, Exchanges: 1094
+Execution Time: 3500 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran50.dat
+Comparisons: 858, Exchanges: 166
+Execution Time: 3750 ns
+----------------------------------------
+Sort: MergeSort
+File: ran50.dat
+Comparisons: 477, Exchanges: 672
+Execution Time: 33042 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev20K.dat
+Comparisons: 200019997, Exchanges: 19999
+Execution Time: 142572208 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev20K.dat
+Comparisons: 200019850, Exchanges: 24949
+Execution Time: 140523792 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev20K.dat
+Comparisons: 200019925, Exchanges: 21224
+Execution Time: 138935500 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev20K.dat
+Comparisons: 326267, Exchanges: 21806
+Execution Time: 245416 ns
+----------------------------------------
+Sort: MergeSort
+File: rev20K.dat
+Comparisons: 139216, Exchanges: 287232
+Execution Time: 1859125 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc500.dat
+Comparisons: 125746, Exchanges: 498
+Execution Time: 133084 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc500.dat
+Comparisons: 120699, Exchanges: 499
+Execution Time: 120875 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc500.dat
+Comparisons: 124474, Exchanges: 499
+Execution Time: 109959 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc500.dat
+Comparisons: 5264, Exchanges: 255
+Execution Time: 6292 ns
+----------------------------------------
+Sort: MergeSort
+File: asc500.dat
+Comparisons: 2272, Exchanges: 4488
+Execution Time: 50208 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev50.dat
+Comparisons: 1297, Exchanges: 49
+Execution Time: 2209 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 1958 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 1875 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev50.dat
+Comparisons: 391, Exchanges: 55
+Execution Time: 1208 ns
+----------------------------------------
+Sort: MergeSort
+File: rev50.dat
+Comparisons: 133, Exchanges: 286
+Execution Time: 13458 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup20K.dat
+Comparisons: 427441, Exchanges: 70292
+Execution Time: 1209625 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup20K.dat
+Comparisons: 619768, Exchanges: 394291
+Execution Time: 1059833 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup20K.dat
+Comparisons: 479419, Exchanges: 226237
+Execution Time: 973291 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup20K.dat
+Comparisons: 376646, Exchanges: 70572
+Execution Time: 1198750 ns
+----------------------------------------
+Sort: MergeSort
+File: dup20K.dat
+Comparisons: 260891, Exchanges: 287232
+Execution Time: 2751750 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc1K.dat
+Comparisons: 501496, Exchanges: 998
+Execution Time: 441625 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc1K.dat
+Comparisons: 496449, Exchanges: 999
+Execution Time: 464000 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc1K.dat
+Comparisons: 500224, Exchanges: 999
+Execution Time: 417250 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc1K.dat
+Comparisons: 11532, Exchanges: 511
+Execution Time: 10625 ns
+----------------------------------------
+Sort: MergeSort
+File: asc1K.dat
+Comparisons: 5044, Exchanges: 9976
+Execution Time: 105334 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc2K.dat
+Comparisons: 2002996, Exchanges: 1998
+Execution Time: 1676667 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc2K.dat
+Comparisons: 1997949, Exchanges: 1999
+Execution Time: 1650125 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc2K.dat
+Comparisons: 2001724, Exchanges: 1999
+Execution Time: 1620750 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc2K.dat
+Comparisons: 25068, Exchanges: 1023
+Execution Time: 21542 ns
+----------------------------------------
+Sort: MergeSort
+File: asc2K.dat
+Comparisons: 11088, Exchanges: 21952
+Execution Time: 130417 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup5K.dat
+Comparisons: 90858, Exchanges: 15227
+Execution Time: 267042 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup5K.dat
+Comparisons: 138753, Exchanges: 95776
+Execution Time: 244708 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup5K.dat
+Comparisons: 102756, Exchanges: 52817
+Execution Time: 218959 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup5K.dat
+Comparisons: 82248, Exchanges: 15237
+Execution Time: 301542 ns
+----------------------------------------
+Sort: MergeSort
+File: dup5K.dat
+Comparisons: 55324, Exchanges: 61808
+Execution Time: 651708 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran20K.dat
+Comparisons: 418467, Exchanges: 69748
+Execution Time: 1142083 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran20K.dat
+Comparisons: 604735, Exchanges: 385568
+Execution Time: 1078750 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran20K.dat
+Comparisons: 470325, Exchanges: 226538
+Execution Time: 1009709 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran20K.dat
+Comparisons: 366857, Exchanges: 70533
+Execution Time: 1186625 ns
+----------------------------------------
+Sort: MergeSort
+File: ran20K.dat
+Comparisons: 260994, Exchanges: 287232
+Execution Time: 2286125 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc10K.dat
+Comparisons: 50014996, Exchanges: 9998
+Execution Time: 39898958 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc10K.dat
+Comparisons: 50009949, Exchanges: 9999
+Execution Time: 39817625 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc10K.dat
+Comparisons: 50013724, Exchanges: 9999
+Execution Time: 39355583 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc10K.dat
+Comparisons: 153132, Exchanges: 5903
+Execution Time: 117333 ns
+----------------------------------------
+Sort: MergeSort
+File: asc10K.dat
+Comparisons: 69008, Exchanges: 133616
+Execution Time: 623834 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev5K.dat
+Comparisons: 12504997, Exchanges: 4999
+Execution Time: 8746334 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev5K.dat
+Comparisons: 12504850, Exchanges: 9949
+Execution Time: 8883083 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev5K.dat
+Comparisons: 12504925, Exchanges: 6224
+Execution Time: 8814041 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev5K.dat
+Comparisons: 71563, Exchanges: 5450
+Execution Time: 56125 ns
+----------------------------------------
+Sort: MergeSort
+File: rev5K.dat
+Comparisons: 29804, Exchanges: 61808
+Execution Time: 300500 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran5K.dat
+Comparisons: 88236, Exchanges: 15404
+Execution Time: 277667 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran5K.dat
+Comparisons: 137098, Exchanges: 95939
+Execution Time: 242250 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran5K.dat
+Comparisons: 101214, Exchanges: 53499
+Execution Time: 222333 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran5K.dat
+Comparisons: 85296, Exchanges: 15200
+Execution Time: 283291 ns
+----------------------------------------
+Sort: MergeSort
+File: ran5K.dat
+Comparisons: 55160, Exchanges: 61808
+Execution Time: 607792 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran2K.dat
+Comparisons: 30540, Exchanges: 5481
+Execution Time: 94667 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran2K.dat
+Comparisons: 51459, Exchanges: 39367
+Execution Time: 92000 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran2K.dat
+Comparisons: 35345, Exchanges: 20702
+Execution Time: 78875 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran2K.dat
+Comparisons: 29285, Exchanges: 5470
+Execution Time: 103792 ns
+----------------------------------------
+Sort: MergeSort
+File: ran2K.dat
+Comparisons: 19436, Exchanges: 21952
+Execution Time: 189208 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc20K.dat
+Comparisons: 200029996, Exchanges: 19998
+Execution Time: 167672666 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc20K.dat
+Comparisons: 200024949, Exchanges: 19999
+Execution Time: 213401292 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc20K.dat
+Comparisons: 200028724, Exchanges: 19999
+Execution Time: 162011583 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc20K.dat
+Comparisons: 326268, Exchanges: 11807
+Execution Time: 253458 ns
+----------------------------------------
+Sort: MergeSort
+File: asc20K.dat
+Comparisons: 148016, Exchanges: 287232
+Execution Time: 1269791 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev500-1.dat
+Comparisons: 125497, Exchanges: 499
+Execution Time: 99250 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev500-1.dat
+Comparisons: 125350, Exchanges: 5449
+Execution Time: 99417 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev500-1.dat
+Comparisons: 125425, Exchanges: 1724
+Execution Time: 94958 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev500-1.dat
+Comparisons: 5263, Exchanges: 504
+Execution Time: 5917 ns
+----------------------------------------
+Sort: MergeSort
+File: rev500-1.dat
+Comparisons: 2216, Exchanges: 4488
+Execution Time: 153792 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran10K.dat
+Comparisons: 188787, Exchanges: 32800
+Execution Time: 570042 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran10K.dat
+Comparisons: 290092, Exchanges: 200224
+Execution Time: 521834 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran10K.dat
+Comparisons: 215552, Exchanges: 112261
+Execution Time: 497167 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran10K.dat
+Comparisons: 171531, Exchanges: 32950
+Execution Time: 715959 ns
+----------------------------------------
+Sort: MergeSort
+File: ran10K.dat
+Comparisons: 120483, Exchanges: 133616
+Execution Time: 1137750 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup500.dat
+Comparisons: 6106, Exchanges: 1132
+Execution Time: 22375 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup500.dat
+Comparisons: 10031, Exchanges: 7842
+Execution Time: 17166 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup500.dat
+Comparisons: 7432, Exchanges: 4943
+Execution Time: 15916 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup500.dat
+Comparisons: 6093, Exchanges: 1141
+Execution Time: 27417 ns
+----------------------------------------
+Sort: MergeSort
+File: dup500.dat
+Comparisons: 3842, Exchanges: 4488
+Execution Time: 38083 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup2K.dat
+Comparisons: 33400, Exchanges: 5572
+Execution Time: 98208 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup2K.dat
+Comparisons: 50480, Exchanges: 35160
+Execution Time: 85042 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup2K.dat
+Comparisons: 39174, Exchanges: 21753
+Execution Time: 79459 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup2K.dat
+Comparisons: 30757, Exchanges: 5422
+Execution Time: 98458 ns
+----------------------------------------
+Sort: MergeSort
+File: dup2K.dat
+Comparisons: 19417, Exchanges: 21952
+Execution Time: 162750 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc5K.dat
+Comparisons: 12507496, Exchanges: 4998
+Execution Time: 10225333 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc5K.dat
+Comparisons: 12502449, Exchanges: 4999
+Execution Time: 10171542 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc5K.dat
+Comparisons: 12506224, Exchanges: 4999
+Execution Time: 10058750 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc5K.dat
+Comparisons: 71564, Exchanges: 2951
+Execution Time: 53542 ns
+----------------------------------------
+Sort: MergeSort
+File: asc5K.dat
+Comparisons: 32004, Exchanges: 61808
+Execution Time: 289125 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev2K.dat
+Comparisons: 2001997, Exchanges: 1999
+Execution Time: 1435167 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev2K.dat
+Comparisons: 2001850, Exchanges: 6949
+Execution Time: 1438667 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev2K.dat
+Comparisons: 2001925, Exchanges: 3224
+Execution Time: 1381625 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev2K.dat
+Comparisons: 25067, Exchanges: 2022
+Execution Time: 20209 ns
+----------------------------------------
+Sort: MergeSort
+File: rev2K.dat
+Comparisons: 10864, Exchanges: 21952
+Execution Time: 102667 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev1K.dat
+Comparisons: 500997, Exchanges: 999
+Execution Time: 4408916 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev1K.dat
+Comparisons: 500850, Exchanges: 5949
+Execution Time: 2276834 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev1K.dat
+Comparisons: 500925, Exchanges: 2224
+Execution Time: 525625 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev1K.dat
+Comparisons: 11531, Exchanges: 1010
+Execution Time: 104833 ns
+----------------------------------------
+Sort: MergeSort
+File: rev1K.dat
+Comparisons: 4932, Exchanges: 9976
+Execution Time: 1906250 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc50.dat
+Comparisons: 1321, Exchanges: 48
+Execution Time: 6583 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 1167 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 1083 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc50.dat
+Comparisons: 392, Exchanges: 31
+Execution Time: 10042 ns
+----------------------------------------
+Sort: MergeSort
+File: asc50.dat
+Comparisons: 153, Exchanges: 286
+Execution Time: 32000 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup1K.dat
+Comparisons: 13519, Exchanges: 2532
+Execution Time: 350750 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup1K.dat
+Comparisons: 20759, Exchanges: 15979
+Execution Time: 216833 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup1K.dat
+Comparisons: 15959, Exchanges: 10097
+Execution Time: 227583 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup1K.dat
+Comparisons: 12778, Exchanges: 2562
+Execution Time: 63916 ns
+----------------------------------------
+Sort: MergeSort
+File: dup1K.dat
+Comparisons: 8670, Exchanges: 9976
+Execution Time: 395041 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev10K.dat
+Comparisons: 50009997, Exchanges: 9999
+Execution Time: 35597958 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev10K.dat
+Comparisons: 50009850, Exchanges: 14949
+Execution Time: 35338209 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev10K.dat
+Comparisons: 50009925, Exchanges: 11224
+Execution Time: 37108791 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev10K.dat
+Comparisons: 153131, Exchanges: 10902
+Execution Time: 198333 ns
+----------------------------------------
+Sort: MergeSort
+File: rev10K.dat
+Comparisons: 64608, Exchanges: 133616
+Execution Time: 1501041 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran500.dat
+Comparisons: 6284, Exchanges: 1138
+Execution Time: 27750 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran500.dat
+Comparisons: 11655, Exchanges: 9846
+Execution Time: 27542 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran500.dat
+Comparisons: 7869, Exchanges: 5399
+Execution Time: 21167 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran500.dat
+Comparisons: 6129, Exchanges: 1130
+Execution Time: 33333 ns
+----------------------------------------
+Sort: MergeSort
+File: ran500.dat
+Comparisons: 3854, Exchanges: 4488
+Execution Time: 108709 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran1K.dat
+Comparisons: 14055, Exchanges: 2505
+Execution Time: 46333 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran1K.dat
+Comparisons: 22859, Exchanges: 17647
+Execution Time: 39250 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran1K.dat
+Comparisons: 17516, Exchanges: 11141
+Execution Time: 36250 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran1K.dat
+Comparisons: 13669, Exchanges: 2486
+Execution Time: 51834 ns
+----------------------------------------
+Sort: MergeSort
+File: ran1K.dat
+Comparisons: 8705, Exchanges: 9976
+Execution Time: 189833 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup10K.dat
+Comparisons: 185969, Exchanges: 32816
+Execution Time: 558791 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup10K.dat
+Comparisons: 287647, Exchanges: 200783
+Execution Time: 499500 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup10K.dat
+Comparisons: 211592, Exchanges: 110637
+Execution Time: 468333 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup10K.dat
+Comparisons: 171629, Exchanges: 33152
+Execution Time: 752625 ns
+----------------------------------------
+Sort: MergeSort
+File: dup10K.dat
+Comparisons: 120413, Exchanges: 133616
+Execution Time: 1837250 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran50.dat
+Comparisons: 934, Exchanges: 169
+Execution Time: 5292 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran50.dat
+Comparisons: 1951, Exchanges: 1956
+Execution Time: 8750 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran50.dat
+Comparisons: 1258, Exchanges: 1094
+Execution Time: 3792 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran50.dat
+Comparisons: 858, Exchanges: 166
+Execution Time: 4625 ns
+----------------------------------------
+Sort: MergeSort
+File: ran50.dat
+Comparisons: 477, Exchanges: 672
+Execution Time: 31333 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev20K.dat
+Comparisons: 200019997, Exchanges: 19999
+Execution Time: 145105500 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev20K.dat
+Comparisons: 200019850, Exchanges: 24949
+Execution Time: 139927584 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev20K.dat
+Comparisons: 200019925, Exchanges: 21224
+Execution Time: 135879208 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev20K.dat
+Comparisons: 326267, Exchanges: 21806
+Execution Time: 250416 ns
+----------------------------------------
+Sort: MergeSort
+File: rev20K.dat
+Comparisons: 139216, Exchanges: 287232
+Execution Time: 1960375 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc500.dat
+Comparisons: 125746, Exchanges: 498
+Execution Time: 110334 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc500.dat
+Comparisons: 120699, Exchanges: 499
+Execution Time: 105083 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc500.dat
+Comparisons: 124474, Exchanges: 499
+Execution Time: 108625 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc500.dat
+Comparisons: 5264, Exchanges: 255
+Execution Time: 6125 ns
+----------------------------------------
+Sort: MergeSort
+File: asc500.dat
+Comparisons: 2272, Exchanges: 4488
+Execution Time: 48875 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev50.dat
+Comparisons: 1297, Exchanges: 49
+Execution Time: 2083 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 1875 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 1917 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev50.dat
+Comparisons: 391, Exchanges: 55
+Execution Time: 1334 ns
+----------------------------------------
+Sort: MergeSort
+File: rev50.dat
+Comparisons: 133, Exchanges: 286
+Execution Time: 15125 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup20K.dat
+Comparisons: 427441, Exchanges: 70292
+Execution Time: 1191166 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup20K.dat
+Comparisons: 619768, Exchanges: 394291
+Execution Time: 1093917 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup20K.dat
+Comparisons: 479419, Exchanges: 226237
+Execution Time: 1005250 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup20K.dat
+Comparisons: 376646, Exchanges: 70572
+Execution Time: 1232125 ns
+----------------------------------------
+Sort: MergeSort
+File: dup20K.dat
+Comparisons: 260891, Exchanges: 287232
+Execution Time: 2896250 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc1K.dat
+Comparisons: 501496, Exchanges: 998
+Execution Time: 427875 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc1K.dat
+Comparisons: 496449, Exchanges: 999
+Execution Time: 423625 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc1K.dat
+Comparisons: 500224, Exchanges: 999
+Execution Time: 423625 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc1K.dat
+Comparisons: 11532, Exchanges: 511
+Execution Time: 10542 ns
+----------------------------------------
+Sort: MergeSort
+File: asc1K.dat
+Comparisons: 5044, Exchanges: 9976
+Execution Time: 99250 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc2K.dat
+Comparisons: 2002996, Exchanges: 1998
+Execution Time: 1624792 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc2K.dat
+Comparisons: 1997949, Exchanges: 1999
+Execution Time: 1633167 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc2K.dat
+Comparisons: 2001724, Exchanges: 1999
+Execution Time: 1613125 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc2K.dat
+Comparisons: 25068, Exchanges: 1023
+Execution Time: 21000 ns
+----------------------------------------
+Sort: MergeSort
+File: asc2K.dat
+Comparisons: 11088, Exchanges: 21952
+Execution Time: 175208 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup5K.dat
+Comparisons: 90858, Exchanges: 15227
+Execution Time: 274958 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup5K.dat
+Comparisons: 138753, Exchanges: 95776
+Execution Time: 241667 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup5K.dat
+Comparisons: 102756, Exchanges: 52817
+Execution Time: 206583 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup5K.dat
+Comparisons: 82248, Exchanges: 15237
+Execution Time: 264541 ns
+----------------------------------------
+Sort: MergeSort
+File: dup5K.dat
+Comparisons: 55324, Exchanges: 61808
+Execution Time: 601042 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran20K.dat
+Comparisons: 418467, Exchanges: 69748
+Execution Time: 1145291 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran20K.dat
+Comparisons: 604735, Exchanges: 385568
+Execution Time: 1081750 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran20K.dat
+Comparisons: 470325, Exchanges: 226538
+Execution Time: 974125 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran20K.dat
+Comparisons: 366857, Exchanges: 70533
+Execution Time: 1276833 ns
+----------------------------------------
+Sort: MergeSort
+File: ran20K.dat
+Comparisons: 260994, Exchanges: 287232
+Execution Time: 2169792 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc10K.dat
+Comparisons: 50014996, Exchanges: 9998
+Execution Time: 39894416 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc10K.dat
+Comparisons: 50009949, Exchanges: 9999
+Execution Time: 39533375 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc10K.dat
+Comparisons: 50013724, Exchanges: 9999
+Execution Time: 39865875 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc10K.dat
+Comparisons: 153132, Exchanges: 5903
+Execution Time: 138584 ns
+----------------------------------------
+Sort: MergeSort
+File: asc10K.dat
+Comparisons: 69008, Exchanges: 133616
+Execution Time: 566208 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev5K.dat
+Comparisons: 12504997, Exchanges: 4999
+Execution Time: 8812583 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev5K.dat
+Comparisons: 12504850, Exchanges: 9949
+Execution Time: 8464958 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev5K.dat
+Comparisons: 12504925, Exchanges: 6224
+Execution Time: 8501625 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev5K.dat
+Comparisons: 71563, Exchanges: 5450
+Execution Time: 57916 ns
+----------------------------------------
+Sort: MergeSort
+File: rev5K.dat
+Comparisons: 29804, Exchanges: 61808
+Execution Time: 284666 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran5K.dat
+Comparisons: 88236, Exchanges: 15404
+Execution Time: 282958 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran5K.dat
+Comparisons: 137098, Exchanges: 95939
+Execution Time: 245791 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran5K.dat
+Comparisons: 101214, Exchanges: 53499
+Execution Time: 221667 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran5K.dat
+Comparisons: 85296, Exchanges: 15200
+Execution Time: 284209 ns
+----------------------------------------
+Sort: MergeSort
+File: ran5K.dat
+Comparisons: 55160, Exchanges: 61808
+Execution Time: 713959 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran2K.dat
+Comparisons: 30540, Exchanges: 5481
+Execution Time: 91500 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran2K.dat
+Comparisons: 51459, Exchanges: 39367
+Execution Time: 85542 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran2K.dat
+Comparisons: 35345, Exchanges: 20702
+Execution Time: 77083 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran2K.dat
+Comparisons: 29285, Exchanges: 5470
+Execution Time: 116167 ns
+----------------------------------------
+Sort: MergeSort
+File: ran2K.dat
+Comparisons: 19436, Exchanges: 21952
+Execution Time: 181584 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc20K.dat
+Comparisons: 200029996, Exchanges: 19998
+Execution Time: 158299250 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc20K.dat
+Comparisons: 200024949, Exchanges: 19999
+Execution Time: 157335500 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc20K.dat
+Comparisons: 200028724, Exchanges: 19999
+Execution Time: 158022375 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc20K.dat
+Comparisons: 326268, Exchanges: 11807
+Execution Time: 234167 ns
+----------------------------------------
+Sort: MergeSort
+File: asc20K.dat
+Comparisons: 148016, Exchanges: 287232
+Execution Time: 1051000 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev500-1.dat
+Comparisons: 125497, Exchanges: 499
+Execution Time: 95708 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev500-1.dat
+Comparisons: 125350, Exchanges: 5449
+Execution Time: 95500 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev500-1.dat
+Comparisons: 125425, Exchanges: 1724
+Execution Time: 95292 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev500-1.dat
+Comparisons: 5263, Exchanges: 504
+Execution Time: 5875 ns
+----------------------------------------
+Sort: MergeSort
+File: rev500-1.dat
+Comparisons: 2216, Exchanges: 4488
+Execution Time: 30959 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran10K.dat
+Comparisons: 188787, Exchanges: 32800
+Execution Time: 535333 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran10K.dat
+Comparisons: 290092, Exchanges: 200224
+Execution Time: 497417 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran10K.dat
+Comparisons: 215552, Exchanges: 112261
+Execution Time: 471792 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran10K.dat
+Comparisons: 171531, Exchanges: 32950
+Execution Time: 611500 ns
+----------------------------------------
+Sort: MergeSort
+File: ran10K.dat
+Comparisons: 120483, Exchanges: 133616
+Execution Time: 938292 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup500.dat
+Comparisons: 6106, Exchanges: 1132
+Execution Time: 23625 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup500.dat
+Comparisons: 10031, Exchanges: 7842
+Execution Time: 17625 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup500.dat
+Comparisons: 7432, Exchanges: 4943
+Execution Time: 17000 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup500.dat
+Comparisons: 6093, Exchanges: 1141
+Execution Time: 24500 ns
+----------------------------------------
+Sort: MergeSort
+File: dup500.dat
+Comparisons: 3842, Exchanges: 4488
+Execution Time: 43209 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup2K.dat
+Comparisons: 33400, Exchanges: 5572
+Execution Time: 95917 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup2K.dat
+Comparisons: 50480, Exchanges: 35160
+Execution Time: 85208 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup2K.dat
+Comparisons: 39174, Exchanges: 21753
+Execution Time: 78583 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup2K.dat
+Comparisons: 30757, Exchanges: 5422
+Execution Time: 103708 ns
+----------------------------------------
+Sort: MergeSort
+File: dup2K.dat
+Comparisons: 19417, Exchanges: 21952
+Execution Time: 161875 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc5K.dat
+Comparisons: 12507496, Exchanges: 4998
+Execution Time: 9939625 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc5K.dat
+Comparisons: 12502449, Exchanges: 4999
+Execution Time: 9952166 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc5K.dat
+Comparisons: 12506224, Exchanges: 4999
+Execution Time: 9847000 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc5K.dat
+Comparisons: 71564, Exchanges: 2951
+Execution Time: 57292 ns
+----------------------------------------
+Sort: MergeSort
+File: asc5K.dat
+Comparisons: 32004, Exchanges: 61808
+Execution Time: 242833 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev2K.dat
+Comparisons: 2001997, Exchanges: 1999
+Execution Time: 1418458 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev2K.dat
+Comparisons: 2001850, Exchanges: 6949
+Execution Time: 1360500 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev2K.dat
+Comparisons: 2001925, Exchanges: 3224
+Execution Time: 1361125 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev2K.dat
+Comparisons: 25067, Exchanges: 2022
+Execution Time: 25209 ns
+----------------------------------------
+Sort: MergeSort
+File: rev2K.dat
+Comparisons: 10864, Exchanges: 21952
+Execution Time: 86917 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev1K.dat
+Comparisons: 500997, Exchanges: 999
+Execution Time: 3899167 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev1K.dat
+Comparisons: 500850, Exchanges: 5949
+Execution Time: 2449542 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev1K.dat
+Comparisons: 500925, Exchanges: 2224
+Execution Time: 687792 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev1K.dat
+Comparisons: 11531, Exchanges: 1010
+Execution Time: 95000 ns
+----------------------------------------
+Sort: MergeSort
+File: rev1K.dat
+Comparisons: 4932, Exchanges: 9976
+Execution Time: 1038209 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc50.dat
+Comparisons: 1321, Exchanges: 48
+Execution Time: 6084 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 792 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 792 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc50.dat
+Comparisons: 392, Exchanges: 31
+Execution Time: 7333 ns
+----------------------------------------
+Sort: MergeSort
+File: asc50.dat
+Comparisons: 153, Exchanges: 286
+Execution Time: 18250 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup1K.dat
+Comparisons: 13519, Exchanges: 2532
+Execution Time: 355750 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup1K.dat
+Comparisons: 20759, Exchanges: 15979
+Execution Time: 228250 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup1K.dat
+Comparisons: 15959, Exchanges: 10097
+Execution Time: 215708 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup1K.dat
+Comparisons: 12778, Exchanges: 2562
+Execution Time: 336000 ns
+----------------------------------------
+Sort: MergeSort
+File: dup1K.dat
+Comparisons: 8670, Exchanges: 9976
+Execution Time: 184750 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev10K.dat
+Comparisons: 50009997, Exchanges: 9999
+Execution Time: 35455125 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev10K.dat
+Comparisons: 50009850, Exchanges: 14949
+Execution Time: 35592667 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev10K.dat
+Comparisons: 50009925, Exchanges: 11224
+Execution Time: 34426917 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev10K.dat
+Comparisons: 153131, Exchanges: 10902
+Execution Time: 269375 ns
+----------------------------------------
+Sort: MergeSort
+File: rev10K.dat
+Comparisons: 64608, Exchanges: 133616
+Execution Time: 1487417 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran500.dat
+Comparisons: 6284, Exchanges: 1138
+Execution Time: 29958 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran500.dat
+Comparisons: 11655, Exchanges: 9846
+Execution Time: 26542 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran500.dat
+Comparisons: 7869, Exchanges: 5399
+Execution Time: 21291 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran500.dat
+Comparisons: 6129, Exchanges: 1130
+Execution Time: 26625 ns
+----------------------------------------
+Sort: MergeSort
+File: ran500.dat
+Comparisons: 3854, Exchanges: 4488
+Execution Time: 98083 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran1K.dat
+Comparisons: 14055, Exchanges: 2505
+Execution Time: 46125 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran1K.dat
+Comparisons: 22859, Exchanges: 17647
+Execution Time: 39750 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran1K.dat
+Comparisons: 17516, Exchanges: 11141
+Execution Time: 36625 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran1K.dat
+Comparisons: 13669, Exchanges: 2486
+Execution Time: 59667 ns
+----------------------------------------
+Sort: MergeSort
+File: ran1K.dat
+Comparisons: 8705, Exchanges: 9976
+Execution Time: 187750 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup10K.dat
+Comparisons: 185969, Exchanges: 32816
+Execution Time: 551750 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup10K.dat
+Comparisons: 287647, Exchanges: 200783
+Execution Time: 511167 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup10K.dat
+Comparisons: 211592, Exchanges: 110637
+Execution Time: 482792 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup10K.dat
+Comparisons: 171629, Exchanges: 33152
+Execution Time: 591125 ns
+----------------------------------------
+Sort: MergeSort
+File: dup10K.dat
+Comparisons: 120413, Exchanges: 133616
+Execution Time: 1753334 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran50.dat
+Comparisons: 934, Exchanges: 169
+Execution Time: 5458 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran50.dat
+Comparisons: 1951, Exchanges: 1956
+Execution Time: 3375 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran50.dat
+Comparisons: 1258, Exchanges: 1094
+Execution Time: 3667 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran50.dat
+Comparisons: 858, Exchanges: 166
+Execution Time: 4875 ns
+----------------------------------------
+Sort: MergeSort
+File: ran50.dat
+Comparisons: 477, Exchanges: 672
+Execution Time: 27042 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev20K.dat
+Comparisons: 200019997, Exchanges: 19999
+Execution Time: 142954416 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev20K.dat
+Comparisons: 200019850, Exchanges: 24949
+Execution Time: 135987625 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev20K.dat
+Comparisons: 200019925, Exchanges: 21224
+Execution Time: 135377375 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev20K.dat
+Comparisons: 326267, Exchanges: 21806
+Execution Time: 264000 ns
+----------------------------------------
+Sort: MergeSort
+File: rev20K.dat
+Comparisons: 139216, Exchanges: 287232
+Execution Time: 1825958 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc500.dat
+Comparisons: 125746, Exchanges: 498
+Execution Time: 103666 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc500.dat
+Comparisons: 120699, Exchanges: 499
+Execution Time: 101500 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc500.dat
+Comparisons: 124474, Exchanges: 499
+Execution Time: 106667 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc500.dat
+Comparisons: 5264, Exchanges: 255
+Execution Time: 5167 ns
+----------------------------------------
+Sort: MergeSort
+File: asc500.dat
+Comparisons: 2272, Exchanges: 4488
+Execution Time: 46000 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev50.dat
+Comparisons: 1297, Exchanges: 49
+Execution Time: 2042 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 2042 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 2000 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev50.dat
+Comparisons: 391, Exchanges: 55
+Execution Time: 1166 ns
+----------------------------------------
+Sort: MergeSort
+File: rev50.dat
+Comparisons: 133, Exchanges: 286
+Execution Time: 17750 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup20K.dat
+Comparisons: 427441, Exchanges: 70292
+Execution Time: 1188084 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup20K.dat
+Comparisons: 619768, Exchanges: 394291
+Execution Time: 1078875 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup20K.dat
+Comparisons: 479419, Exchanges: 226237
+Execution Time: 992833 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup20K.dat
+Comparisons: 376646, Exchanges: 70572
+Execution Time: 1226625 ns
+----------------------------------------
+Sort: MergeSort
+File: dup20K.dat
+Comparisons: 260891, Exchanges: 287232
+Execution Time: 2900584 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc1K.dat
+Comparisons: 501496, Exchanges: 998
+Execution Time: 427458 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc1K.dat
+Comparisons: 496449, Exchanges: 999
+Execution Time: 423000 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc1K.dat
+Comparisons: 500224, Exchanges: 999
+Execution Time: 426833 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc1K.dat
+Comparisons: 11532, Exchanges: 511
+Execution Time: 20041 ns
+----------------------------------------
+Sort: MergeSort
+File: asc1K.dat
+Comparisons: 5044, Exchanges: 9976
+Execution Time: 108209 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc2K.dat
+Comparisons: 2002996, Exchanges: 1998
+Execution Time: 1673667 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc2K.dat
+Comparisons: 1997949, Exchanges: 1999
+Execution Time: 1679542 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc2K.dat
+Comparisons: 2001724, Exchanges: 1999
+Execution Time: 1626208 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc2K.dat
+Comparisons: 25068, Exchanges: 1023
+Execution Time: 21167 ns
+----------------------------------------
+Sort: MergeSort
+File: asc2K.dat
+Comparisons: 11088, Exchanges: 21952
+Execution Time: 149916 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup5K.dat
+Comparisons: 90858, Exchanges: 15227
+Execution Time: 273625 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup5K.dat
+Comparisons: 138753, Exchanges: 95776
+Execution Time: 242708 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup5K.dat
+Comparisons: 102756, Exchanges: 52817
+Execution Time: 223208 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup5K.dat
+Comparisons: 82248, Exchanges: 15237
+Execution Time: 285083 ns
+----------------------------------------
+Sort: MergeSort
+File: dup5K.dat
+Comparisons: 55324, Exchanges: 61808
+Execution Time: 537750 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran20K.dat
+Comparisons: 418467, Exchanges: 69748
+Execution Time: 1176167 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran20K.dat
+Comparisons: 604735, Exchanges: 385568
+Execution Time: 1076833 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran20K.dat
+Comparisons: 470325, Exchanges: 226538
+Execution Time: 985125 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran20K.dat
+Comparisons: 366857, Exchanges: 70533
+Execution Time: 1212833 ns
+----------------------------------------
+Sort: MergeSort
+File: ran20K.dat
+Comparisons: 260994, Exchanges: 287232
+Execution Time: 2213041 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc10K.dat
+Comparisons: 50014996, Exchanges: 9998
+Execution Time: 39522000 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc10K.dat
+Comparisons: 50009949, Exchanges: 9999
+Execution Time: 39410375 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc10K.dat
+Comparisons: 50013724, Exchanges: 9999
+Execution Time: 39873334 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc10K.dat
+Comparisons: 153132, Exchanges: 5903
+Execution Time: 118167 ns
+----------------------------------------
+Sort: MergeSort
+File: asc10K.dat
+Comparisons: 69008, Exchanges: 133616
+Execution Time: 561500 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev5K.dat
+Comparisons: 12504997, Exchanges: 4999
+Execution Time: 8507458 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev5K.dat
+Comparisons: 12504850, Exchanges: 9949
+Execution Time: 8538709 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev5K.dat
+Comparisons: 12504925, Exchanges: 6224
+Execution Time: 8562292 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev5K.dat
+Comparisons: 71563, Exchanges: 5450
+Execution Time: 55500 ns
+----------------------------------------
+Sort: MergeSort
+File: rev5K.dat
+Comparisons: 29804, Exchanges: 61808
+Execution Time: 273000 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran5K.dat
+Comparisons: 88236, Exchanges: 15404
+Execution Time: 274583 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran5K.dat
+Comparisons: 137098, Exchanges: 95939
+Execution Time: 242791 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran5K.dat
+Comparisons: 101214, Exchanges: 53499
+Execution Time: 221916 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran5K.dat
+Comparisons: 85296, Exchanges: 15200
+Execution Time: 276708 ns
+----------------------------------------
+Sort: MergeSort
+File: ran5K.dat
+Comparisons: 55160, Exchanges: 61808
+Execution Time: 546292 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran2K.dat
+Comparisons: 30540, Exchanges: 5481
+Execution Time: 99500 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran2K.dat
+Comparisons: 51459, Exchanges: 39367
+Execution Time: 86250 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran2K.dat
+Comparisons: 35345, Exchanges: 20702
+Execution Time: 78000 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran2K.dat
+Comparisons: 29285, Exchanges: 5470
+Execution Time: 104584 ns
+----------------------------------------
+Sort: MergeSort
+File: ran2K.dat
+Comparisons: 19436, Exchanges: 21952
+Execution Time: 177708 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc20K.dat
+Comparisons: 200029996, Exchanges: 19998
+Execution Time: 159123625 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc20K.dat
+Comparisons: 200024949, Exchanges: 19999
+Execution Time: 158614625 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc20K.dat
+Comparisons: 200028724, Exchanges: 19999
+Execution Time: 157325500 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc20K.dat
+Comparisons: 326268, Exchanges: 11807
+Execution Time: 235917 ns
+----------------------------------------
+Sort: MergeSort
+File: asc20K.dat
+Comparisons: 148016, Exchanges: 287232
+Execution Time: 1108833 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev500-1.dat
+Comparisons: 125497, Exchanges: 499
+Execution Time: 95791 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev500-1.dat
+Comparisons: 125350, Exchanges: 5449
+Execution Time: 97750 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev500-1.dat
+Comparisons: 125425, Exchanges: 1724
+Execution Time: 91625 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev500-1.dat
+Comparisons: 5263, Exchanges: 504
+Execution Time: 5708 ns
+----------------------------------------
+Sort: MergeSort
+File: rev500-1.dat
+Comparisons: 2216, Exchanges: 4488
+Execution Time: 25916 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran10K.dat
+Comparisons: 188787, Exchanges: 32800
+Execution Time: 532000 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran10K.dat
+Comparisons: 290092, Exchanges: 200224
+Execution Time: 494292 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran10K.dat
+Comparisons: 215552, Exchanges: 112261
+Execution Time: 470708 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran10K.dat
+Comparisons: 171531, Exchanges: 32950
+Execution Time: 586750 ns
+----------------------------------------
+Sort: MergeSort
+File: ran10K.dat
+Comparisons: 120483, Exchanges: 133616
+Execution Time: 935291 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup500.dat
+Comparisons: 6106, Exchanges: 1132
+Execution Time: 22167 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup500.dat
+Comparisons: 10031, Exchanges: 7842
+Execution Time: 17500 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup500.dat
+Comparisons: 7432, Exchanges: 4943
+Execution Time: 15416 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup500.dat
+Comparisons: 6093, Exchanges: 1141
+Execution Time: 26541 ns
+----------------------------------------
+Sort: MergeSort
+File: dup500.dat
+Comparisons: 3842, Exchanges: 4488
+Execution Time: 39583 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup2K.dat
+Comparisons: 33400, Exchanges: 5572
+Execution Time: 96625 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup2K.dat
+Comparisons: 50480, Exchanges: 35160
+Execution Time: 87834 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup2K.dat
+Comparisons: 39174, Exchanges: 21753
+Execution Time: 79084 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup2K.dat
+Comparisons: 30757, Exchanges: 5422
+Execution Time: 103708 ns
+----------------------------------------
+Sort: MergeSort
+File: dup2K.dat
+Comparisons: 19417, Exchanges: 21952
+Execution Time: 163250 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc5K.dat
+Comparisons: 12507496, Exchanges: 4998
+Execution Time: 10213875 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc5K.dat
+Comparisons: 12502449, Exchanges: 4999
+Execution Time: 10068250 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc5K.dat
+Comparisons: 12506224, Exchanges: 4999
+Execution Time: 9910583 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc5K.dat
+Comparisons: 71564, Exchanges: 2951
+Execution Time: 57333 ns
+----------------------------------------
+Sort: MergeSort
+File: asc5K.dat
+Comparisons: 32004, Exchanges: 61808
+Execution Time: 237333 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev2K.dat
+Comparisons: 2001997, Exchanges: 1999
+Execution Time: 1435209 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev2K.dat
+Comparisons: 2001850, Exchanges: 6949
+Execution Time: 1419250 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev2K.dat
+Comparisons: 2001925, Exchanges: 3224
+Execution Time: 1364292 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev2K.dat
+Comparisons: 25067, Exchanges: 2022
+Execution Time: 20166 ns
+----------------------------------------
+Sort: MergeSort
+File: rev2K.dat
+Comparisons: 10864, Exchanges: 21952
+Execution Time: 93208 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev1K.dat
+Comparisons: 500997, Exchanges: 999
+Execution Time: 4180208 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev1K.dat
+Comparisons: 500850, Exchanges: 5949
+Execution Time: 2318959 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev1K.dat
+Comparisons: 500925, Exchanges: 2224
+Execution Time: 2281333 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev1K.dat
+Comparisons: 11531, Exchanges: 1010
+Execution Time: 133375 ns
+----------------------------------------
+Sort: MergeSort
+File: rev1K.dat
+Comparisons: 4932, Exchanges: 9976
+Execution Time: 965666 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc50.dat
+Comparisons: 1321, Exchanges: 48
+Execution Time: 6458 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 750 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 750 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc50.dat
+Comparisons: 392, Exchanges: 31
+Execution Time: 7458 ns
+----------------------------------------
+Sort: MergeSort
+File: asc50.dat
+Comparisons: 153, Exchanges: 286
+Execution Time: 34542 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup1K.dat
+Comparisons: 13519, Exchanges: 2532
+Execution Time: 352625 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup1K.dat
+Comparisons: 20759, Exchanges: 15979
+Execution Time: 110959 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup1K.dat
+Comparisons: 15959, Exchanges: 10097
+Execution Time: 71959 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup1K.dat
+Comparisons: 12778, Exchanges: 2562
+Execution Time: 59708 ns
+----------------------------------------
+Sort: MergeSort
+File: dup1K.dat
+Comparisons: 8670, Exchanges: 9976
+Execution Time: 185209 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev10K.dat
+Comparisons: 50009997, Exchanges: 9999
+Execution Time: 35228125 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev10K.dat
+Comparisons: 50009850, Exchanges: 14949
+Execution Time: 34540167 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev10K.dat
+Comparisons: 50009925, Exchanges: 11224
+Execution Time: 33986167 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev10K.dat
+Comparisons: 153131, Exchanges: 10902
+Execution Time: 186500 ns
+----------------------------------------
+Sort: MergeSort
+File: rev10K.dat
+Comparisons: 64608, Exchanges: 133616
+Execution Time: 1530291 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran500.dat
+Comparisons: 6284, Exchanges: 1138
+Execution Time: 32583 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran500.dat
+Comparisons: 11655, Exchanges: 9846
+Execution Time: 25250 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran500.dat
+Comparisons: 7869, Exchanges: 5399
+Execution Time: 20042 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran500.dat
+Comparisons: 6129, Exchanges: 1130
+Execution Time: 30750 ns
+----------------------------------------
+Sort: MergeSort
+File: ran500.dat
+Comparisons: 3854, Exchanges: 4488
+Execution Time: 89375 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran1K.dat
+Comparisons: 14055, Exchanges: 2505
+Execution Time: 46416 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran1K.dat
+Comparisons: 22859, Exchanges: 17647
+Execution Time: 38625 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran1K.dat
+Comparisons: 17516, Exchanges: 11141
+Execution Time: 35958 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran1K.dat
+Comparisons: 13669, Exchanges: 2486
+Execution Time: 51958 ns
+----------------------------------------
+Sort: MergeSort
+File: ran1K.dat
+Comparisons: 8705, Exchanges: 9976
+Execution Time: 184125 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup10K.dat
+Comparisons: 185969, Exchanges: 32816
+Execution Time: 583959 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup10K.dat
+Comparisons: 287647, Exchanges: 200783
+Execution Time: 524166 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup10K.dat
+Comparisons: 211592, Exchanges: 110637
+Execution Time: 470875 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup10K.dat
+Comparisons: 171629, Exchanges: 33152
+Execution Time: 607458 ns
+----------------------------------------
+Sort: MergeSort
+File: dup10K.dat
+Comparisons: 120413, Exchanges: 133616
+Execution Time: 1776458 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran50.dat
+Comparisons: 934, Exchanges: 169
+Execution Time: 5375 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran50.dat
+Comparisons: 1951, Exchanges: 1956
+Execution Time: 3291 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran50.dat
+Comparisons: 1258, Exchanges: 1094
+Execution Time: 13709 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran50.dat
+Comparisons: 858, Exchanges: 166
+Execution Time: 4584 ns
+----------------------------------------
+Sort: MergeSort
+File: ran50.dat
+Comparisons: 477, Exchanges: 672
+Execution Time: 25041 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev20K.dat
+Comparisons: 200019997, Exchanges: 19999
+Execution Time: 138117959 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev20K.dat
+Comparisons: 200019850, Exchanges: 24949
+Execution Time: 135876000 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev20K.dat
+Comparisons: 200019925, Exchanges: 21224
+Execution Time: 135843459 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev20K.dat
+Comparisons: 326267, Exchanges: 21806
+Execution Time: 256417 ns
+----------------------------------------
+Sort: MergeSort
+File: rev20K.dat
+Comparisons: 139216, Exchanges: 287232
+Execution Time: 1897750 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc500.dat
+Comparisons: 125746, Exchanges: 498
+Execution Time: 110791 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc500.dat
+Comparisons: 120699, Exchanges: 499
+Execution Time: 101958 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc500.dat
+Comparisons: 124474, Exchanges: 499
+Execution Time: 110542 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc500.dat
+Comparisons: 5264, Exchanges: 255
+Execution Time: 5625 ns
+----------------------------------------
+Sort: MergeSort
+File: asc500.dat
+Comparisons: 2272, Exchanges: 4488
+Execution Time: 48417 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev50.dat
+Comparisons: 1297, Exchanges: 49
+Execution Time: 2083 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 2042 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 2167 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev50.dat
+Comparisons: 391, Exchanges: 55
+Execution Time: 1375 ns
+----------------------------------------
+Sort: MergeSort
+File: rev50.dat
+Comparisons: 133, Exchanges: 286
+Execution Time: 13583 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup20K.dat
+Comparisons: 427441, Exchanges: 70292
+Execution Time: 1173500 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup20K.dat
+Comparisons: 619768, Exchanges: 394291
+Execution Time: 1070583 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup20K.dat
+Comparisons: 479419, Exchanges: 226237
+Execution Time: 1021209 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup20K.dat
+Comparisons: 376646, Exchanges: 70572
+Execution Time: 1272417 ns
+----------------------------------------
+Sort: MergeSort
+File: dup20K.dat
+Comparisons: 260891, Exchanges: 287232
+Execution Time: 3064916 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc1K.dat
+Comparisons: 501496, Exchanges: 998
+Execution Time: 425083 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc1K.dat
+Comparisons: 496449, Exchanges: 999
+Execution Time: 408834 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc1K.dat
+Comparisons: 500224, Exchanges: 999
+Execution Time: 422042 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc1K.dat
+Comparisons: 11532, Exchanges: 511
+Execution Time: 10292 ns
+----------------------------------------
+Sort: MergeSort
+File: asc1K.dat
+Comparisons: 5044, Exchanges: 9976
+Execution Time: 106208 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc2K.dat
+Comparisons: 2002996, Exchanges: 1998
+Execution Time: 1587708 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc2K.dat
+Comparisons: 1997949, Exchanges: 1999
+Execution Time: 1605875 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc2K.dat
+Comparisons: 2001724, Exchanges: 1999
+Execution Time: 1621791 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc2K.dat
+Comparisons: 25068, Exchanges: 1023
+Execution Time: 21458 ns
+----------------------------------------
+Sort: MergeSort
+File: asc2K.dat
+Comparisons: 11088, Exchanges: 21952
+Execution Time: 131750 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup5K.dat
+Comparisons: 90858, Exchanges: 15227
+Execution Time: 275833 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup5K.dat
+Comparisons: 138753, Exchanges: 95776
+Execution Time: 240459 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup5K.dat
+Comparisons: 102756, Exchanges: 52817
+Execution Time: 220250 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup5K.dat
+Comparisons: 82248, Exchanges: 15237
+Execution Time: 300125 ns
+----------------------------------------
+Sort: MergeSort
+File: dup5K.dat
+Comparisons: 55324, Exchanges: 61808
+Execution Time: 595166 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran20K.dat
+Comparisons: 418467, Exchanges: 69748
+Execution Time: 1179333 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran20K.dat
+Comparisons: 604735, Exchanges: 385568
+Execution Time: 1058166 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran20K.dat
+Comparisons: 470325, Exchanges: 226538
+Execution Time: 1030958 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran20K.dat
+Comparisons: 366857, Exchanges: 70533
+Execution Time: 1175709 ns
+----------------------------------------
+Sort: MergeSort
+File: ran20K.dat
+Comparisons: 260994, Exchanges: 287232
+Execution Time: 2204958 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc10K.dat
+Comparisons: 50014996, Exchanges: 9998
+Execution Time: 39478708 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc10K.dat
+Comparisons: 50009949, Exchanges: 9999
+Execution Time: 39357167 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc10K.dat
+Comparisons: 50013724, Exchanges: 9999
+Execution Time: 39262250 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc10K.dat
+Comparisons: 153132, Exchanges: 5903
+Execution Time: 112417 ns
+----------------------------------------
+Sort: MergeSort
+File: asc10K.dat
+Comparisons: 69008, Exchanges: 133616
+Execution Time: 613292 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev5K.dat
+Comparisons: 12504997, Exchanges: 4999
+Execution Time: 8494916 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev5K.dat
+Comparisons: 12504850, Exchanges: 9949
+Execution Time: 8684000 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev5K.dat
+Comparisons: 12504925, Exchanges: 6224
+Execution Time: 8673916 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev5K.dat
+Comparisons: 71563, Exchanges: 5450
+Execution Time: 59542 ns
+----------------------------------------
+Sort: MergeSort
+File: rev5K.dat
+Comparisons: 29804, Exchanges: 61808
+Execution Time: 293959 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran5K.dat
+Comparisons: 88236, Exchanges: 15404
+Execution Time: 268334 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran5K.dat
+Comparisons: 137098, Exchanges: 95939
+Execution Time: 248125 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran5K.dat
+Comparisons: 101214, Exchanges: 53499
+Execution Time: 216500 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran5K.dat
+Comparisons: 85296, Exchanges: 15200
+Execution Time: 291250 ns
+----------------------------------------
+Sort: MergeSort
+File: ran5K.dat
+Comparisons: 55160, Exchanges: 61808
+Execution Time: 542708 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran2K.dat
+Comparisons: 30540, Exchanges: 5481
+Execution Time: 95791 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran2K.dat
+Comparisons: 51459, Exchanges: 39367
+Execution Time: 83833 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran2K.dat
+Comparisons: 35345, Exchanges: 20702
+Execution Time: 74958 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran2K.dat
+Comparisons: 29285, Exchanges: 5470
+Execution Time: 103041 ns
+----------------------------------------
+Sort: MergeSort
+File: ran2K.dat
+Comparisons: 19436, Exchanges: 21952
+Execution Time: 170500 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc20K.dat
+Comparisons: 200029996, Exchanges: 19998
+Execution Time: 160049667 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc20K.dat
+Comparisons: 200024949, Exchanges: 19999
+Execution Time: 158985958 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc20K.dat
+Comparisons: 200028724, Exchanges: 19999
+Execution Time: 157410792 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc20K.dat
+Comparisons: 326268, Exchanges: 11807
+Execution Time: 239208 ns
+----------------------------------------
+Sort: MergeSort
+File: asc20K.dat
+Comparisons: 148016, Exchanges: 287232
+Execution Time: 1096708 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev500-1.dat
+Comparisons: 125497, Exchanges: 499
+Execution Time: 95291 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev500-1.dat
+Comparisons: 125350, Exchanges: 5449
+Execution Time: 95708 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev500-1.dat
+Comparisons: 125425, Exchanges: 1724
+Execution Time: 94709 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev500-1.dat
+Comparisons: 5263, Exchanges: 504
+Execution Time: 5959 ns
+----------------------------------------
+Sort: MergeSort
+File: rev500-1.dat
+Comparisons: 2216, Exchanges: 4488
+Execution Time: 34250 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran10K.dat
+Comparisons: 188787, Exchanges: 32800
+Execution Time: 535625 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran10K.dat
+Comparisons: 290092, Exchanges: 200224
+Execution Time: 493417 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran10K.dat
+Comparisons: 215552, Exchanges: 112261
+Execution Time: 454500 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran10K.dat
+Comparisons: 171531, Exchanges: 32950
+Execution Time: 565000 ns
+----------------------------------------
+Sort: MergeSort
+File: ran10K.dat
+Comparisons: 120483, Exchanges: 133616
+Execution Time: 954833 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup500.dat
+Comparisons: 6106, Exchanges: 1132
+Execution Time: 23334 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup500.dat
+Comparisons: 10031, Exchanges: 7842
+Execution Time: 16875 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup500.dat
+Comparisons: 7432, Exchanges: 4943
+Execution Time: 16125 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup500.dat
+Comparisons: 6093, Exchanges: 1141
+Execution Time: 24000 ns
+----------------------------------------
+Sort: MergeSort
+File: dup500.dat
+Comparisons: 3842, Exchanges: 4488
+Execution Time: 38792 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup2K.dat
+Comparisons: 33400, Exchanges: 5572
+Execution Time: 95250 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup2K.dat
+Comparisons: 50480, Exchanges: 35160
+Execution Time: 84292 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup2K.dat
+Comparisons: 39174, Exchanges: 21753
+Execution Time: 77875 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup2K.dat
+Comparisons: 30757, Exchanges: 5422
+Execution Time: 102541 ns
+----------------------------------------
+Sort: MergeSort
+File: dup2K.dat
+Comparisons: 19417, Exchanges: 21952
+Execution Time: 164959 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc5K.dat
+Comparisons: 12507496, Exchanges: 4998
+Execution Time: 9835375 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc5K.dat
+Comparisons: 12502449, Exchanges: 4999
+Execution Time: 9918333 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc5K.dat
+Comparisons: 12506224, Exchanges: 4999
+Execution Time: 9918167 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc5K.dat
+Comparisons: 71564, Exchanges: 2951
+Execution Time: 58708 ns
+----------------------------------------
+Sort: MergeSort
+File: asc5K.dat
+Comparisons: 32004, Exchanges: 61808
+Execution Time: 249834 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev2K.dat
+Comparisons: 2001997, Exchanges: 1999
+Execution Time: 1399667 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev2K.dat
+Comparisons: 2001850, Exchanges: 6949
+Execution Time: 1376416 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev2K.dat
+Comparisons: 2001925, Exchanges: 3224
+Execution Time: 1361167 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev2K.dat
+Comparisons: 25067, Exchanges: 2022
+Execution Time: 21042 ns
+----------------------------------------
+Sort: MergeSort
+File: rev2K.dat
+Comparisons: 10864, Exchanges: 21952
+Execution Time: 91583 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev1K.dat
+Comparisons: 500997, Exchanges: 999
+Execution Time: 5182708 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev1K.dat
+Comparisons: 500850, Exchanges: 5949
+Execution Time: 2550250 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev1K.dat
+Comparisons: 500925, Exchanges: 2224
+Execution Time: 848417 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev1K.dat
+Comparisons: 11531, Exchanges: 1010
+Execution Time: 98791 ns
+----------------------------------------
+Sort: MergeSort
+File: rev1K.dat
+Comparisons: 4932, Exchanges: 9976
+Execution Time: 983209 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc50.dat
+Comparisons: 1321, Exchanges: 48
+Execution Time: 5750 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 11959 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc50.dat
+Comparisons: 49, Exchanges: 49
+Execution Time: 750 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc50.dat
+Comparisons: 392, Exchanges: 31
+Execution Time: 8083 ns
+----------------------------------------
+Sort: MergeSort
+File: asc50.dat
+Comparisons: 153, Exchanges: 286
+Execution Time: 24625 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup1K.dat
+Comparisons: 13519, Exchanges: 2532
+Execution Time: 361584 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup1K.dat
+Comparisons: 20759, Exchanges: 15979
+Execution Time: 217458 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup1K.dat
+Comparisons: 15959, Exchanges: 10097
+Execution Time: 196292 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup1K.dat
+Comparisons: 12778, Exchanges: 2562
+Execution Time: 309750 ns
+----------------------------------------
+Sort: MergeSort
+File: dup1K.dat
+Comparisons: 8670, Exchanges: 9976
+Execution Time: 181583 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev10K.dat
+Comparisons: 50009997, Exchanges: 9999
+Execution Time: 36703458 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev10K.dat
+Comparisons: 50009850, Exchanges: 14949
+Execution Time: 34585875 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev10K.dat
+Comparisons: 50009925, Exchanges: 11224
+Execution Time: 34409833 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev10K.dat
+Comparisons: 153131, Exchanges: 10902
+Execution Time: 251125 ns
+----------------------------------------
+Sort: MergeSort
+File: rev10K.dat
+Comparisons: 64608, Exchanges: 133616
+Execution Time: 1472792 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran500.dat
+Comparisons: 6284, Exchanges: 1138
+Execution Time: 28083 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran500.dat
+Comparisons: 11655, Exchanges: 9846
+Execution Time: 24667 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran500.dat
+Comparisons: 7869, Exchanges: 5399
+Execution Time: 20167 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran500.dat
+Comparisons: 6129, Exchanges: 1130
+Execution Time: 27000 ns
+----------------------------------------
+Sort: MergeSort
+File: ran500.dat
+Comparisons: 3854, Exchanges: 4488
+Execution Time: 91792 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran1K.dat
+Comparisons: 14055, Exchanges: 2505
+Execution Time: 44917 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran1K.dat
+Comparisons: 22859, Exchanges: 17647
+Execution Time: 37834 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran1K.dat
+Comparisons: 17516, Exchanges: 11141
+Execution Time: 35750 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran1K.dat
+Comparisons: 13669, Exchanges: 2486
+Execution Time: 58041 ns
+----------------------------------------
+Sort: MergeSort
+File: ran1K.dat
+Comparisons: 8705, Exchanges: 9976
+Execution Time: 174292 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup10K.dat
+Comparisons: 185969, Exchanges: 32816
+Execution Time: 548209 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup10K.dat
+Comparisons: 287647, Exchanges: 200783
+Execution Time: 496458 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup10K.dat
+Comparisons: 211592, Exchanges: 110637
+Execution Time: 448333 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup10K.dat
+Comparisons: 171629, Exchanges: 33152
+Execution Time: 575542 ns
+----------------------------------------
+Sort: MergeSort
+File: dup10K.dat
+Comparisons: 120413, Exchanges: 133616
+Execution Time: 1781709 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran50.dat
+Comparisons: 934, Exchanges: 169
+Execution Time: 4916 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran50.dat
+Comparisons: 1951, Exchanges: 1956
+Execution Time: 3250 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran50.dat
+Comparisons: 1258, Exchanges: 1094
+Execution Time: 3125 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran50.dat
+Comparisons: 858, Exchanges: 166
+Execution Time: 4292 ns
+----------------------------------------
+Sort: MergeSort
+File: ran50.dat
+Comparisons: 477, Exchanges: 672
+Execution Time: 23500 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev20K.dat
+Comparisons: 200019997, Exchanges: 19999
+Execution Time: 139628500 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev20K.dat
+Comparisons: 200019850, Exchanges: 24949
+Execution Time: 137048709 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev20K.dat
+Comparisons: 200019925, Exchanges: 21224
+Execution Time: 135906250 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev20K.dat
+Comparisons: 326267, Exchanges: 21806
+Execution Time: 269291 ns
+----------------------------------------
+Sort: MergeSort
+File: rev20K.dat
+Comparisons: 139216, Exchanges: 287232
+Execution Time: 2001542 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc500.dat
+Comparisons: 125746, Exchanges: 498
+Execution Time: 106917 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc500.dat
+Comparisons: 120699, Exchanges: 499
+Execution Time: 101792 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc500.dat
+Comparisons: 124474, Exchanges: 499
+Execution Time: 108417 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc500.dat
+Comparisons: 5264, Exchanges: 255
+Execution Time: 5500 ns
+----------------------------------------
+Sort: MergeSort
+File: asc500.dat
+Comparisons: 2272, Exchanges: 4488
+Execution Time: 46334 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev50.dat
+Comparisons: 1297, Exchanges: 49
+Execution Time: 2042 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 2000 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev50.dat
+Comparisons: 1225, Exchanges: 1274
+Execution Time: 1833 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev50.dat
+Comparisons: 391, Exchanges: 55
+Execution Time: 1166 ns
+----------------------------------------
+Sort: MergeSort
+File: rev50.dat
+Comparisons: 133, Exchanges: 286
+Execution Time: 11250 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup20K.dat
+Comparisons: 427441, Exchanges: 70292
+Execution Time: 1171750 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup20K.dat
+Comparisons: 619768, Exchanges: 394291
+Execution Time: 1077583 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup20K.dat
+Comparisons: 479419, Exchanges: 226237
+Execution Time: 1026542 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup20K.dat
+Comparisons: 376646, Exchanges: 70572
+Execution Time: 1210042 ns
+----------------------------------------
+Sort: MergeSort
+File: dup20K.dat
+Comparisons: 260891, Exchanges: 287232
+Execution Time: 2775292 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc1K.dat
+Comparisons: 501496, Exchanges: 998
+Execution Time: 434458 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc1K.dat
+Comparisons: 496449, Exchanges: 999
+Execution Time: 459125 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc1K.dat
+Comparisons: 500224, Exchanges: 999
+Execution Time: 428209 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc1K.dat
+Comparisons: 11532, Exchanges: 511
+Execution Time: 11041 ns
+----------------------------------------
+Sort: MergeSort
+File: asc1K.dat
+Comparisons: 5044, Exchanges: 9976
+Execution Time: 111125 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc2K.dat
+Comparisons: 2002996, Exchanges: 1998
+Execution Time: 1581459 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc2K.dat
+Comparisons: 1997949, Exchanges: 1999
+Execution Time: 1571542 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc2K.dat
+Comparisons: 2001724, Exchanges: 1999
+Execution Time: 1830791 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc2K.dat
+Comparisons: 25068, Exchanges: 1023
+Execution Time: 23083 ns
+----------------------------------------
+Sort: MergeSort
+File: asc2K.dat
+Comparisons: 11088, Exchanges: 21952
+Execution Time: 152458 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup5K.dat
+Comparisons: 90858, Exchanges: 15227
+Execution Time: 268209 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup5K.dat
+Comparisons: 138753, Exchanges: 95776
+Execution Time: 238792 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup5K.dat
+Comparisons: 102756, Exchanges: 52817
+Execution Time: 211666 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup5K.dat
+Comparisons: 82248, Exchanges: 15237
+Execution Time: 282167 ns
+----------------------------------------
+Sort: MergeSort
+File: dup5K.dat
+Comparisons: 55324, Exchanges: 61808
+Execution Time: 568375 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran20K.dat
+Comparisons: 418467, Exchanges: 69748
+Execution Time: 1108792 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran20K.dat
+Comparisons: 604735, Exchanges: 385568
+Execution Time: 1057542 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran20K.dat
+Comparisons: 470325, Exchanges: 226538
+Execution Time: 974208 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran20K.dat
+Comparisons: 366857, Exchanges: 70533
+Execution Time: 1222167 ns
+----------------------------------------
+Sort: MergeSort
+File: ran20K.dat
+Comparisons: 260994, Exchanges: 287232
+Execution Time: 2165792 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc10K.dat
+Comparisons: 50014996, Exchanges: 9998
+Execution Time: 40199750 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc10K.dat
+Comparisons: 50009949, Exchanges: 9999
+Execution Time: 39644250 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc10K.dat
+Comparisons: 50013724, Exchanges: 9999
+Execution Time: 39585208 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc10K.dat
+Comparisons: 153132, Exchanges: 5903
+Execution Time: 109500 ns
+----------------------------------------
+Sort: MergeSort
+File: asc10K.dat
+Comparisons: 69008, Exchanges: 133616
+Execution Time: 554375 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev5K.dat
+Comparisons: 12504997, Exchanges: 4999
+Execution Time: 8544834 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev5K.dat
+Comparisons: 12504850, Exchanges: 9949
+Execution Time: 8387458 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev5K.dat
+Comparisons: 12504925, Exchanges: 6224
+Execution Time: 8576166 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev5K.dat
+Comparisons: 71563, Exchanges: 5450
+Execution Time: 55917 ns
+----------------------------------------
+Sort: MergeSort
+File: rev5K.dat
+Comparisons: 29804, Exchanges: 61808
+Execution Time: 256625 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran5K.dat
+Comparisons: 88236, Exchanges: 15404
+Execution Time: 270041 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran5K.dat
+Comparisons: 137098, Exchanges: 95939
+Execution Time: 240833 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran5K.dat
+Comparisons: 101214, Exchanges: 53499
+Execution Time: 224875 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran5K.dat
+Comparisons: 85296, Exchanges: 15200
+Execution Time: 287958 ns
+----------------------------------------
+Sort: MergeSort
+File: ran5K.dat
+Comparisons: 55160, Exchanges: 61808
+Execution Time: 552958 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran2K.dat
+Comparisons: 30540, Exchanges: 5481
+Execution Time: 98375 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran2K.dat
+Comparisons: 51459, Exchanges: 39367
+Execution Time: 87417 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran2K.dat
+Comparisons: 35345, Exchanges: 20702
+Execution Time: 79833 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran2K.dat
+Comparisons: 29285, Exchanges: 5470
+Execution Time: 106833 ns
+----------------------------------------
+Sort: MergeSort
+File: ran2K.dat
+Comparisons: 19436, Exchanges: 21952
+Execution Time: 187750 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc20K.dat
+Comparisons: 200029996, Exchanges: 19998
+Execution Time: 158823875 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc20K.dat
+Comparisons: 200024949, Exchanges: 19999
+Execution Time: 158246083 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc20K.dat
+Comparisons: 200028724, Exchanges: 19999
+Execution Time: 157387209 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc20K.dat
+Comparisons: 326268, Exchanges: 11807
+Execution Time: 238333 ns
+----------------------------------------
+Sort: MergeSort
+File: asc20K.dat
+Comparisons: 148016, Exchanges: 287232
+Execution Time: 1124417 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev500-1.dat
+Comparisons: 125497, Exchanges: 499
+Execution Time: 93209 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev500-1.dat
+Comparisons: 125350, Exchanges: 5449
+Execution Time: 91666 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev500-1.dat
+Comparisons: 125425, Exchanges: 1724
+Execution Time: 91667 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev500-1.dat
+Comparisons: 5263, Exchanges: 504
+Execution Time: 5500 ns
+----------------------------------------
+Sort: MergeSort
+File: rev500-1.dat
+Comparisons: 2216, Exchanges: 4488
+Execution Time: 25334 ns
+----------------------------------------
+Sort: QuickSortA
+File: ran10K.dat
+Comparisons: 188787, Exchanges: 32800
+Execution Time: 522917 ns
+----------------------------------------
+Sort: QuickSortB
+File: ran10K.dat
+Comparisons: 290092, Exchanges: 200224
+Execution Time: 494083 ns
+----------------------------------------
+Sort: QuickSortC
+File: ran10K.dat
+Comparisons: 215552, Exchanges: 112261
+Execution Time: 466542 ns
+----------------------------------------
+Sort: QuickSortD
+File: ran10K.dat
+Comparisons: 171531, Exchanges: 32950
+Execution Time: 568042 ns
+----------------------------------------
+Sort: MergeSort
+File: ran10K.dat
+Comparisons: 120483, Exchanges: 133616
+Execution Time: 991375 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup500.dat
+Comparisons: 6106, Exchanges: 1132
+Execution Time: 22916 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup500.dat
+Comparisons: 10031, Exchanges: 7842
+Execution Time: 17542 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup500.dat
+Comparisons: 7432, Exchanges: 4943
+Execution Time: 16458 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup500.dat
+Comparisons: 6093, Exchanges: 1141
+Execution Time: 24875 ns
+----------------------------------------
+Sort: MergeSort
+File: dup500.dat
+Comparisons: 3842, Exchanges: 4488
+Execution Time: 52708 ns
+----------------------------------------
+Sort: QuickSortA
+File: dup2K.dat
+Comparisons: 33400, Exchanges: 5572
+Execution Time: 95500 ns
+----------------------------------------
+Sort: QuickSortB
+File: dup2K.dat
+Comparisons: 50480, Exchanges: 35160
+Execution Time: 84542 ns
+----------------------------------------
+Sort: QuickSortC
+File: dup2K.dat
+Comparisons: 39174, Exchanges: 21753
+Execution Time: 78167 ns
+----------------------------------------
+Sort: QuickSortD
+File: dup2K.dat
+Comparisons: 30757, Exchanges: 5422
+Execution Time: 99166 ns
+----------------------------------------
+Sort: MergeSort
+File: dup2K.dat
+Comparisons: 19417, Exchanges: 21952
+Execution Time: 170083 ns
+----------------------------------------
+Sort: QuickSortA
+File: asc5K.dat
+Comparisons: 12507496, Exchanges: 4998
+Execution Time: 10014500 ns
+----------------------------------------
+Sort: QuickSortB
+File: asc5K.dat
+Comparisons: 12502449, Exchanges: 4999
+Execution Time: 9861792 ns
+----------------------------------------
+Sort: QuickSortC
+File: asc5K.dat
+Comparisons: 12506224, Exchanges: 4999
+Execution Time: 9988583 ns
+----------------------------------------
+Sort: QuickSortD
+File: asc5K.dat
+Comparisons: 71564, Exchanges: 2951
+Execution Time: 56708 ns
+----------------------------------------
+Sort: MergeSort
+File: asc5K.dat
+Comparisons: 32004, Exchanges: 61808
+Execution Time: 245417 ns
+----------------------------------------
+Sort: QuickSortA
+File: rev2K.dat
+Comparisons: 2001997, Exchanges: 1999
+Execution Time: 1393250 ns
+----------------------------------------
+Sort: QuickSortB
+File: rev2K.dat
+Comparisons: 2001850, Exchanges: 6949
+Execution Time: 1352750 ns
+----------------------------------------
+Sort: QuickSortC
+File: rev2K.dat
+Comparisons: 2001925, Exchanges: 3224
+Execution Time: 1372458 ns
+----------------------------------------
+Sort: QuickSortD
+File: rev2K.dat
+Comparisons: 25067, Exchanges: 2022
+Execution Time: 21542 ns
+----------------------------------------
+Sort: MergeSort
+File: rev2K.dat
+Comparisons: 10864, Exchanges: 21952
+Execution Time: 94208 ns
+----------------------------------------

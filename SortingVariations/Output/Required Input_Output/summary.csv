@@ -1,0 +1,137 @@
+Sort,File,Comparisons,Exchanges,Execution Time,Input Type,Size
+QuickSortA,asc50.dat,1321,48,5750,Ascending Order,50
+QuickSortA,rev50.dat,1297,49,2042,Reverse Order,50
+QuickSortA,ran50.dat,934,169,4916,Random Order,50
+QuickSortB,asc50.dat,49,49,11959,Ascending Order,50
+QuickSortB,rev50.dat,1225,1274,2000,Reverse Order,50
+QuickSortB,ran50.dat,1951,1956,3250,Random Order,50
+QuickSortC,asc50.dat,49,49,750,Ascending Order,50
+QuickSortC,rev50.dat,1225,1274,1833,Reverse Order,50
+QuickSortC,ran50.dat,1258,1094,3125,Random Order,50
+QuickSortD,rev50.dat,391,55,1166,Reverse Order,50
+QuickSortD,asc50.dat,392,31,8083,Ascending Order,50
+QuickSortD,ran50.dat,858,166,4292,Random Order,50
+MergeSort,ran50.dat,477,672,23500,Random Order,50
+MergeSort,rev50.dat,133,286,11250,Reverse Order,50
+MergeSort,asc50.dat,153,286,24625,Ascending Order,50
+QuickSortA,dup500.dat,6106,1132,22916,Random Order with Duplicates,500
+QuickSortA,ran500.dat,6284,1138,28083,Random Order,500
+QuickSortA,rev500-1.dat,125497,499,93209,Reverse Order,500
+QuickSortA,asc500.dat,125746,498,106917,Ascending Order,500
+QuickSortB,dup500.dat,10031,7842,17542,Random Order with Duplicates,500
+QuickSortB,ran500.dat,11655,9846,24667,Random Order,500
+QuickSortB,asc500.dat,120699,499,101792,Ascending Order,500
+QuickSortB,rev500-1.dat,125350,5449,91666,Reverse Order,500
+QuickSortC,ran500.dat,7869,5399,20167,Random Order,500
+QuickSortC,dup500.dat,7432,4943,16458,Random Order with Duplicates,500
+QuickSortC,asc500.dat,124474,499,108417,Ascending Order,500
+QuickSortC,rev500-1.dat,125425,1724,91667,Reverse Order,500
+QuickSortD,dup500.dat,6093,1141,24875,Random Order with Duplicates,500
+QuickSortD,ran500.dat,6129,1130,27000,Random Order,500
+QuickSortD,asc500.dat,5264,255,5500,Ascending Order,500
+QuickSortD,rev500-1.dat,5263,504,5500,Reverse Order,500
+MergeSort,ran500.dat,3854,4488,91792,Random Order,500
+MergeSort,rev500-1.dat,2216,4488,25334,Reverse Order,500
+MergeSort,dup500.dat,3842,4488,52708,Random Order with Duplicates,500
+MergeSort,asc500.dat,2272,4488,46334,Ascending Order,500
+QuickSortA,rev1K.dat,500997,999,5182708,Reverse Order,1000
+QuickSortA,asc1K.dat,501496,998,434458,Ascending Order,1000
+QuickSortA,ran1K.dat,14055,2505,44917,Random Order,1000
+QuickSortA,dup1K.dat,13519,2532,361584,Random Order with Duplicates,1000
+QuickSortB,rev1K.dat,500850,5949,2550250,Reverse Order,1000
+QuickSortB,asc1K.dat,496449,999,459125,Ascending Order,1000
+QuickSortB,ran1K.dat,22859,17647,37834,Random Order,1000
+QuickSortB,dup1K.dat,20759,15979,217458,Random Order with Duplicates,1000
+QuickSortC,rev1K.dat,500925,2224,848417,Reverse Order,1000
+QuickSortC,asc1K.dat,500224,999,428209,Ascending Order,1000
+QuickSortC,ran1K.dat,17516,11141,35750,Random Order,1000
+QuickSortC,dup1K.dat,15959,10097,196292,Random Order with Duplicates,1000
+QuickSortD,asc1K.dat,11532,511,11041,Ascending Order,1000
+QuickSortD,rev1K.dat,11531,1010,98791,Reverse Order,1000
+QuickSortD,dup1K.dat,12778,2562,309750,Random Order with Duplicates,1000
+QuickSortD,ran1K.dat,13669,2486,58041,Random Order,1000
+MergeSort,ran1K.dat,8705,9976,174292,Random Order,1000
+MergeSort,dup1K.dat,8670,9976,181583,Random Order with Duplicates,1000
+MergeSort,asc1K.dat,5044,9976,111125,Ascending Order,1000
+MergeSort,rev1K.dat,4932,9976,983209,Reverse Order,1000
+QuickSortA,dup2K.dat,33400,5572,95500,Random Order with Duplicates,2000
+QuickSortA,ran2K.dat,30540,5481,98375,Random Order,2000
+QuickSortA,asc2K.dat,2002996,1998,1581459,Ascending Order,2000
+QuickSortA,rev2K.dat,2001997,1999,1393250,Reverse Order,2000
+QuickSortB,dup2K.dat,50480,35160,84542,Random Order with Duplicates,2000
+QuickSortB,ran2K.dat,51459,39367,87417,Random Order,2000
+QuickSortB,asc2K.dat,1997949,1999,1571542,Ascending Order,2000
+QuickSortB,rev2K.dat,2001850,6949,1352750,Reverse Order,2000
+QuickSortC,dup2K.dat,39174,21753,78167,Random Order with Duplicates,2000
+QuickSortC,ran2K.dat,35345,20702,79833,Random Order,2000
+QuickSortC,asc2K.dat,2001724,1999,1830791,Ascending Order,2000
+QuickSortC,rev2K.dat,2001925,3224,1372458,Reverse Order,2000
+QuickSortD,ran2K.dat,29285,5470,106833,Random Order,2000
+QuickSortD,dup2K.dat,30757,5422,99166,Random Order with Duplicates,2000
+QuickSortD,rev2K.dat,25067,2022,21542,Reverse Order,2000
+QuickSortD,asc2K.dat,25068,1023,23083,Ascending Order,2000
+MergeSort,dup2K.dat,19417,21952,170083,Random Order with Duplicates,2000
+MergeSort,ran2K.dat,19436,21952,187750,Random Order,2000
+MergeSort,rev2K.dat,10864,21952,94208,Reverse Order,2000
+MergeSort,asc2K.dat,11088,21952,152458,Ascending Order,2000
+MergeSort,rev2K.dat,10864,21952,94208,Reverse Order,2000
+QuickSortA,ran5K.dat,88236,15404,270041,Random Order,5000
+QuickSortA,dup5K.dat,90858,15227,268209,Random Order with Duplicates,5000
+QuickSortA,rev5K.dat,12504997,4999,8544834,Reverse Order,5000
+QuickSortA,asc5K.dat,12507496,4998,10014500,Ascending Order,5000
+QuickSortB,ran5K.dat,137098,95939,240833,Random Order,5000
+QuickSortB,dup5K.dat,138753,95776,238792,Random Order with Duplicates,5000
+QuickSortB,rev5K.dat,12504850,9949,8387458,Reverse Order,5000
+QuickSortB,asc5K.dat,12502449,4999,9861792,Ascending Order,5000
+QuickSortC,ran5K.dat,101214,53499,224875,Random Order,5000
+QuickSortC,dup5K.dat,102756,52817,211666,Random Order with Duplicates,5000
+QuickSortC,rev5K.dat,12504925,6224,8576166,Reverse Order,5000
+QuickSortC,asc5K.dat,12506224,4999,9988583,Ascending Order,5000
+QuickSortD,dup5K.dat,82248,15237,282167,Random Order with Duplicates,5000
+QuickSortD,ran5K.dat,85296,15200,287958,Random Order,5000
+QuickSortD,asc5K.dat,71564,2951,56708,Ascending Order,5000
+QuickSortD,rev5K.dat,71563,5450,55917,Reverse Order,5000
+MergeSort,dup5K.dat,55324,61808,568375,Random Order with Duplicates,5000
+MergeSort,ran5K.dat,55160,61808,552958,Random Order,5000
+MergeSort,rev5K.dat,29804,61808,256625,Reverse Order,5000
+MergeSort,asc5K.dat,32004,61808,245417,Ascending Order,5000
+QuickSortA,rev10K.dat,50009997,9999,36703458,Reverse Order,10000
+QuickSortA,asc10K.dat,50014996,9998,40199750,Ascending Order,10000
+QuickSortA,ran10K.dat,188787,32800,522917,Random Order,10000
+QuickSortA,dup10K.dat,185969,32816,548209,Random Order with Duplicates,10000
+QuickSortB,rev10K.dat,50009850,14949,34585875,Reverse Order,10000
+QuickSortB,asc10K.dat,50009949,9999,39644250,Ascending Order,10000
+QuickSortB,ran10K.dat,290092,200224,494083,Random Order,10000
+QuickSortB,dup10K.dat,287647,200783,496458,Random Order with Duplicates,10000
+QuickSortC,rev10K.dat,50009925,11224,34409833,Reverse Order,10000
+QuickSortC,asc10K.dat,50013724,9999,39585208,Ascending Order,10000
+QuickSortC,dup10K.dat,211592,110637,448333,Random Order with Duplicates,10000
+QuickSortC,ran10K.dat,215552,112261,466542,Random Order,10000
+QuickSortD,rev10K.dat,153131,10902,251125,Reverse Order,10000
+QuickSortD,asc10K.dat,153132,5903,109500,Ascending Order,10000
+QuickSortD,ran10K.dat,171531,32950,568042,Random Order,10000
+QuickSortD,dup10K.dat,171629,33152,575542,Random Order with Duplicates,10000
+MergeSort,asc10K.dat,69008,133616,554375,Ascending Order,10000
+MergeSort,rev10K.dat,64608,133616,1472792,Reverse Order,10000
+MergeSort,dup10K.dat,120413,133616,1781709,Random Order with Duplicates,10000
+MergeSort,ran10K.dat,120483,133616,991375,Random Order,10000
+QuickSortA,ran20K.dat,418467,69748,1108792,Random Order,20000
+QuickSortA,dup20K.dat,427441,70292,1171750,Random Order with Duplicates,20000
+QuickSortA,asc20K.dat,200029996,19998,158823875,Ascending Order,20000
+QuickSortA,rev20K.dat,200019997,19999,139628500,Reverse Order,20000
+QuickSortB,ran20K.dat,604735,385568,1057542,Random Order,20000
+QuickSortB,dup20K.dat,619768,394291,1077583,Random Order with Duplicates,20000
+QuickSortB,asc20K.dat,200024949,19999,158246083,Ascending Order,20000
+QuickSortB,rev20K.dat,200019850,24949,137048709,Reverse Order,20000
+QuickSortC,dup20K.dat,479419,226237,1026542,Random Order with Duplicates,20000
+QuickSortC,ran20K.dat,470325,226538,974208,Random Order,20000
+QuickSortC,asc20K.dat,200028724,19999,157387209,Ascending Order,20000
+QuickSortC,rev20K.dat,200019925,21224,135906250,Reverse Order,20000
+QuickSortD,ran20K.dat,366857,70533,1222167,Random Order,20000
+QuickSortD,dup20K.dat,376646,70572,1210042,Random Order with Duplicates,20000
+QuickSortD,asc20K.dat,326268,11807,238333,Ascending Order,20000
+QuickSortD,rev20K.dat,326267,21806,269291,Reverse Order,20000
+MergeSort,ran20K.dat,260994,287232,2165792,Random Order,20000
+MergeSort,dup20K.dat,260891,287232,2775292,Random Order with Duplicates,20000
+MergeSort,rev20K.dat,139216,287232,2001542,Reverse Order,20000
+MergeSort,asc20K.dat,148016,287232,1124417,Ascending Order,20000
